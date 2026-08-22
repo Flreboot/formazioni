@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b1220">
+  <title>FFL 2027 - Admin Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+  <main class="dashboard-page">
+    <section class="dashboard-card">
+      <header class="dashboard-header">
+        <div class="brand-area">
+          <img src="logo.png" alt="FFL Reboot" class="dashboard-logo">
+          <div>
+            <div class="league-title">FANTAFOOTBALL LEAGUE</div>
+            <div class="league-season">REBOOT 2026/27</div>
+          </div>
+        </div>
+        <button id="logoutButton" class="logout-button">ESCI</button>
+      </header>
+
+      <div class="divider"></div>
+
+      <section class="welcome-area">
+        <p class="welcome-label">AREA AMMINISTRATORE</p>
+        <h1>ADMIN</h1>
+        <p class="welcome-text">Gestione invio formazioni FFL.</p>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="action-card primary-card">
+          <div class="action-icon">📂</div>
+          <div>
+            <h2>Carica Registro</h2>
+            <p>Carica il registro ufficiale con rose e dati delle squadre.</p>
+          </div>
+
+          <input
+            id="registroFile"
+            type="file"
+            accept=".xlsx"
+            hidden
+          >
+
+          <button id="registroButton" class="action-button">CARICA REGISTRO</button>
+
+          <p
+            id="registroStatus"
+            class="welcome-text"
+            style="margin-top:12px; min-height:20px;"
+            aria-live="polite"
+          ></p>
+        </article>
+
+        <article class="action-card deadline-card">
+          <div class="action-icon">⏱️</div>
+          <div>
+            <h2>Tempo Limite Formazioni</h2>
+            <p>Imposta la scadenza entro la quale gli utenti potranno inviare la formazione.</p>
+          </div>
+
+          <div class="deadline-controls">
+            <label for="deadlineInput" class="deadline-label">Data e orario</label>
+            <input id="deadlineInput" class="deadline-input" type="datetime-local">
+            <button id="deadlineButton" class="action-button deadline-button">SALVA SCADENZA</button>
+          </div>
+
+          <p id="deadlineStatus" class="deadline-status" aria-live="polite"></p>
+        </article>
+      </section>
+
+      <footer class="dashboard-footer">
+        FFL • Formazioni 2026/27
+      </footer>
+    </section>
+  </main>
+
+  <script src="admin-dashboard.js"></script>
+</body>
+</html>

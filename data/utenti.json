@@ -1,0 +1,68 @@
+[
+  {
+    "username": "ATLETICO VAR",
+    "password": "VARRICA",
+    "squadra": "ATLETICO VAR",
+    "role": "user"
+  },
+  {
+    "username": "DREAMTEAM",
+    "password": "SASSO",
+    "squadra": "DREAMTEAM",
+    "role": "user"
+  },
+  {
+    "username": "FC SOFIA",
+    "password": "CORDOVA",
+    "squadra": "FC SOFIA",
+    "role": "user"
+  },
+  {
+    "username": "MI MAX TURBO",
+    "password": "DICACCAMO",
+    "squadra": "MI MAX TURBO",
+    "role": "user"
+  },
+  {
+    "username": "IL SIGNOR G",
+    "password": "SCORSONE",
+    "squadra": "IL SIGNOR G",
+    "role": "user"
+  },
+  {
+    "username": "SCOGLIO FFC",
+    "password": "LIVIGNI",
+    "squadra": "SCOGLIO FFC",
+    "role": "user"
+  },
+  {
+    "username": "SCAGLIONE B",
+    "password": "SCAGLIONE",
+    "squadra": "SCAGLIONE B",
+    "role": "user"
+  },
+  {
+    "username": "XAMATT FFC",
+    "password": "MASSIMO",
+    "squadra": "XAMATT FFC",
+    "role": "user"
+  },
+  {
+    "username": "PARTENAZZURRI",
+    "password": "IVANGIUS",
+    "squadra": "PARTENAZZURRI",
+    "role": "user"
+  },
+  {
+    "username": "INPSWICH FC",
+    "password": "LUCA",
+    "squadra": "INPSWICH FC",
+    "role": "user"
+  },
+  {
+    "username": "ADMIN",
+    "password": "PISCIOTTA",
+    "squadra": null,
+    "role": "admin"
+  }
+]

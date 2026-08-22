@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b1220">
+  <title>FFL 2027 - Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <main class="page">
+    <section class="login-card">
+      <div class="brand">
+        <div class="brand-badge"><img src="logo.png" alt="FFL Reboot" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
+        <div class="brand-text">
+          <h1>FANTAFOOTBALL LEAGUE</h1>
+          <p>REBOOT 2026/27</p>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="intro">
+        <h2>Invio Formazione</h2>
+        <p>Accedi con le credenziali della tua squadra.</p>
+      </div>
+
+      <form id="loginForm" class="login-form" autocomplete="on">
+        <div class="field">
+          <label for="username">Squadra</label>
+          <input
+            type="text"
+            id="username"
+            name="username"
+            placeholder="Inserisci il nome della squadra"
+            autocomplete="username"
+            required
+          >
+        </div>
+
+        <div class="field">
+          <label for="password">Password</label>
+
+          <div class="password-wrap">
+            <input
+              type="password"
+              id="password"
+              name="password"
+              placeholder="Inserisci la password"
+              autocomplete="current-password"
+              required
+            >
+            <button
+              type="button"
+              id="togglePassword"
+              class="password-toggle"
+              aria-label="Mostra password"
+              title="Mostra password"
+            >
+              MOSTRA
+            </button>
+          </div>
+        </div>
+
+        <p id="loginMessage" class="login-message" aria-live="polite"></p>
+
+        <button type="submit" class="login-button">
+          ACCEDI
+        </button>
+      </form>
+
+      <footer class="card-footer">
+        FFL • Formazioni 2026/27
+      </footer>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

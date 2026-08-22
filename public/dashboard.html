@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b1220">
+  <title>FFL 2027 - Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+  <main class="dashboard-page">
+    <section class="dashboard-card">
+
+      <header class="dashboard-header">
+        <div class="brand-area">
+          <img src="logo.png" alt="FFL Reboot" class="dashboard-logo">
+          <div>
+            <div class="league-title">FANTAFOOTBALL LEAGUE</div>
+            <div class="league-season">REBOOT 2026/27</div>
+          </div>
+        </div>
+
+        <button id="logoutButton" class="logout-button">ESCI</button>
+      </header>
+
+      <div class="divider"></div>
+
+      <section class="welcome-area">
+        <p class="welcome-label">ACCESSO EFFETTUATO</p>
+        <h1 id="teamName">Dashboard</h1>
+        <p id="welcomeText" class="welcome-text"></p>
+      </section>
+
+      <section id="formationWorkspace" class="formation-workspace">
+        <section class="workspace-panel roster-panel">
+          <div class="panel-heading">
+            <div>
+              <span class="panel-kicker">ROSA</span>
+              <h2>I tuoi giocatori</h2>
+            </div>
+            <span id="rosterCounter" class="counter-pill">0</span>
+          </div>
+          <div id="rosterList" class="roster-list" aria-live="polite"></div>
+        </section>
+
+        <section class="workspace-panel starters-panel">
+          <div class="panel-heading compact-heading">
+            <div>
+              <span class="panel-kicker">FORMAZIONE</span>
+              <h2>Undici titolari</h2>
+            </div>
+          </div>
+
+          <label class="field-label" for="moduleSelect">Modulo</label>
+          <select id="moduleSelect" class="dashboard-select module-select">
+            <option value="">Scegli il modulo</option>
+          </select>
+
+          <div id="startersList" class="selection-list starters-list"></div>
+        </section>
+
+        <section class="workspace-panel reserves-panel">
+          <div class="panel-heading compact-heading">
+            <div>
+              <span class="panel-kicker">PANCHINA</span>
+              <h2>12 riserve</h2>
+            </div>
+          </div>
+
+          <div id="reservesList" class="selection-list reserves-list"></div>
+
+          <div class="captains-box">
+            <div class="captain-field">
+              <label class="field-label" for="captainSelect">Capitano</label>
+              <select id="captainSelect" class="dashboard-select">
+                <option value="">Scegli il capitano</option>
+              </select>
+            </div>
+            <div class="captain-field">
+              <label class="field-label" for="viceCaptainSelect">Vice capitano</label>
+              <select id="viceCaptainSelect" class="dashboard-select">
+                <option value="">Scegli il vice</option>
+              </select>
+            </div>
+          </div>
+        </section>
+
+        <section class="workspace-panel pitch-panel">
+          <div class="panel-heading pitch-heading">
+            <div>
+              <span class="panel-kicker">ANTEPRIMA</span>
+              <h2>Schieramento</h2>
+            </div>
+            <span id="moduleBadge" class="module-badge">--</span>
+          </div>
+
+          <div id="pitch" class="pitch" aria-label="Anteprima formazione sul campo">
+            <div id="pitchPlayers" class="pitch-players"></div>
+            <div id="pitchEmpty" class="pitch-empty">Scegli il modulo e completa gli undici titolari.</div>
+          </div>
+
+          <button id="sendFormationButton" class="send-formation-button" type="button">
+            INVIA FORMAZIONE
+          </button>
+
+          <p id="dashboardMessage" class="dashboard-message" aria-live="polite"></p>
+        </section>
+      </section>
+
+      <footer class="dashboard-footer">
+        FFL • Formazioni 2026/27
+      </footer>
+
+    </section>
+  </main>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>
