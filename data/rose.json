@@ -1,80 +1,73 @@
 {
   "ATLETICO VAR": {
     "allenatore": {
-      "nome": "CONTE",
+      "nome": "FABREGAS",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "MURIC",
+        "squadraSerieA": "SA",
+        "valore": 7,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
+        "nome": "BIJLOW",
+        "squadraSerieA": "GE",
+        "valore": 8,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
+        "nome": "RUSSO A.",
+        "squadraSerieA": "SA",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "DC"
-      },
-      {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
-        "valore": 6,
+        "nome": "CARLOS AUGUSTO",
+        "squadraSerieA": "IN",
+        "valore": 7,
         "contratto": 3,
         "ruoli": "DC DS CS"
       },
       {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
-        "contratto": 3,
-        "ruoli": "DC DE"
-      },
-      {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "DC DD M"
-      },
-      {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
+        "nome": "DOEKHI",
+        "squadraSerieA": "LA",
+        "valore": 8,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "VALDEPENAS",
-        "squadraSerieA": "FI",
-        "valore": 6,
+        "nome": "OLIVERA",
+        "squadraSerieA": "NA",
+        "valore": 5,
+        "contratto": 3,
+        "ruoli": "DC DS CS"
+      },
+      {
+        "nome": "SPINAZZOLA",
+        "squadraSerieA": "NA",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "DS CE"
+      },
+      {
+        "nome": "VASQUEZ",
+        "squadraSerieA": "GE",
+        "valore": 9,
         "contratto": 3,
         "ruoli": "DC DS"
       },
       {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
+        "nome": "BERNASCONI",
+        "squadraSerieA": "AT",
+        "valore": 6,
         "contratto": 3,
-        "ruoli": "DS CS AS"
+        "ruoli": "DC DS CS"
       },
       {
         "nome": "VALLE",
@@ -84,554 +77,561 @@
         "ruoli": "DS"
       },
       {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
-        "valore": 7,
+        "nome": "GASPAR K.",
+        "squadraSerieA": "LE",
+        "valore": 5,
         "contratto": 3,
-        "ruoli": "DC DS"
+        "ruoli": "DC"
       },
       {
-        "nome": "IDZES",
+        "nome": "VAN DER BREMPT",
         "squadraSerieA": "SA",
-        "valore": 7,
+        "valore": 2,
         "contratto": 3,
-        "ruoli": "DC M CC"
+        "ruoli": "DC DD CD"
       },
       {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
+        "nome": "COUTO",
+        "squadraSerieA": "CO",
         "valore": 8,
+        "contratto": 3,
+        "ruoli": "DD CD"
+      },
+      {
+        "nome": "SAMARDZIC",
+        "squadraSerieA": "AT",
+        "valore": 13,
+        "contratto": 3,
+        "ruoli": "CC T"
+      },
+      {
+        "nome": "VOLPATO",
+        "squadraSerieA": "SA",
+        "valore": 14,
         "contratto": 3,
         "ruoli": "CD T AD"
       },
       {
-        "nome": "THURAM K.",
-        "squadraSerieA": "JU",
-        "valore": 10,
+        "nome": "BATURINA",
+        "squadraSerieA": "CO",
+        "valore": 56,
         "contratto": 3,
-        "ruoli": "M CC"
+        "ruoli": "CC T AS"
       },
       {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "DIOUF",
+        "squadraSerieA": "IN",
+        "valore": 25,
         "contratto": 3,
-        "ruoli": "CC T"
+        "ruoli": "CC CD T"
       },
       {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
-        "contratto": 3,
-        "ruoli": "CD AS AD"
-      },
-      {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
-        "valore": 6,
+        "nome": "RABIOT",
+        "squadraSerieA": "MI",
+        "valore": 46,
         "contratto": 3,
         "ruoli": "M CC T"
       },
       {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
+        "nome": "PULISIC",
+        "squadraSerieA": "MI",
+        "valore": 48,
         "contratto": 3,
         "ruoli": "T AS AD"
       },
       {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
+        "nome": "ELLERTSSON",
+        "squadraSerieA": "GE",
+        "valore": 9,
+        "contratto": 3,
+        "ruoli": "CC CE"
+      },
+      {
+        "nome": "FOLORUNSHO",
+        "squadraSerieA": "MO",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "CC CS T"
       },
       {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "MOREIRA",
+        "squadraSerieA": "MI",
+        "valore": 11,
         "contratto": 3,
-        "ruoli": "M CC"
+        "ruoli": "CS A"
       },
       {
-        "nome": "PELLEGRINO M.",
-        "squadraSerieA": "FI",
-        "valore": 15,
+        "nome": "FAZZINI",
+        "squadraSerieA": "CA",
+        "valore": 6,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "CC T"
       },
       {
-        "nome": "RODRIGUEZ JE.",
+        "nome": "DIAO",
         "squadraSerieA": "CO",
         "valore": 12,
         "contratto": 3,
-        "ruoli": "AS AD"
+        "ruoli": "AS AD PC"
       },
       {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
-        "valore": 4,
+        "nome": "YILDIZ",
+        "squadraSerieA": "JU",
+        "valore": 40,
         "contratto": 3,
-        "ruoli": "PC SP AD"
+        "ruoli": "AS AD SP"
       },
       {
-        "nome": "KULENOVIC",
-        "squadraSerieA": "TO",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
+        "nome": "HOJLUND",
+        "squadraSerieA": "NA",
+        "valore": 102,
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "LAURIENTÈ",
+        "nome": "ESPOSITO SE.",
         "squadraSerieA": "SA",
-        "valore": 15,
+        "valore": 12,
+        "contratto": 3,
+        "ruoli": "SP PC T"
+      },
+      {
+        "nome": "KVERNADZE",
+        "squadraSerieA": "FR",
+        "valore": 6,
         "contratto": 3,
         "ruoli": "AS AD PC"
+      },
+      {
+        "nome": "COLOMBO",
+        "squadraSerieA": "GE",
+        "valore": 11,
+        "contratto": 3,
+        "ruoli": "PC"
       }
     ]
   },
   "DREAMTEAM": {
     "allenatore": {
-      "nome": "SPALLETTI",
+      "nome": "ALLEGRI",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "MAIGNAN",
+        "squadraSerieA": "MI",
+        "valore": 15,
+        "contratto": 3,
+        "ruoli": "POR"
+      },
+      {
+        "nome": "MERET",
+        "squadraSerieA": "NA",
+        "valore": 11,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
         "nome": "MILINKOVIC-SAVIC V.",
         "squadraSerieA": "NA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
+        "nome": "DRAGUSIN",
+        "squadraSerieA": "FI",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "DC DD"
+      },
+      {
+        "nome": "JOAO MARIO",
+        "squadraSerieA": "FI",
+        "valore": 3,
+        "contratto": 3,
+        "ruoli": "DE CD"
+      },
+      {
+        "nome": "PAVLOVIC",
+        "squadraSerieA": "MI",
+        "valore": 14,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "AHANOR",
+        "nome": "DELPRATO",
+        "squadraSerieA": "PA",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "DC DD CD"
+      },
+      {
+        "nome": "DI LORENZO",
+        "squadraSerieA": "NA",
+        "valore": 12,
+        "contratto": 3,
+        "ruoli": "DC DD CD"
+      },
+      {
+        "nome": "JIMENEZ A.",
+        "squadraSerieA": "FI",
+        "valore": 15,
+        "contratto": 3,
+        "ruoli": "DE CD"
+      },
+      {
+        "nome": "KOLASINAC",
         "squadraSerieA": "AT",
         "valore": 6,
         "contratto": 3,
         "ruoli": "DC DS CS"
       },
       {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
-        "contratto": 3,
-        "ruoli": "DC DE"
-      },
-      {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "DC DD M"
-      },
-      {
-        "nome": "GATTI",
+        "nome": "KELLY L.",
         "squadraSerieA": "JU",
-        "valore": 4,
+        "valore": 6,
+        "contratto": 3,
+        "ruoli": "DC DS"
+      },
+      {
+        "nome": "DODò",
+        "squadraSerieA": "FI",
+        "valore": 9,
+        "contratto": 3,
+        "ruoli": "DD CD"
+      },
+      {
+        "nome": "COMUZZO",
+        "squadraSerieA": "TO",
+        "valore": 8,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "VALDEPENAS",
+        "nome": "ATTA",
         "squadraSerieA": "FI",
-        "valore": 6,
+        "valore": 15,
         "contratto": 3,
-        "ruoli": "DC DS"
+        "ruoli": "CC CD T"
       },
       {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "DS CS AS"
-      },
-      {
-        "nome": "VALLE",
-        "squadraSerieA": "CO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DS"
-      },
-      {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
+        "nome": "BERNABè",
+        "squadraSerieA": "PA",
         "valore": 7,
         "contratto": 3,
-        "ruoli": "DC DS"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
+        "nome": "ZACCAGNI",
+        "squadraSerieA": "LA",
+        "valore": 16,
         "contratto": 3,
-        "ruoli": "DC M CC"
+        "ruoli": "T AS SP"
       },
       {
-        "nome": "VERGARA",
+        "nome": "DE BRUYNE",
         "squadraSerieA": "NA",
-        "valore": 8,
+        "valore": 46,
         "contratto": 3,
-        "ruoli": "CD T AD"
+        "ruoli": "CC T"
+      },
+      {
+        "nome": "ALAJBEGOVIC",
+        "squadraSerieA": "JU",
+        "valore": 21,
+        "contratto": 3,
+        "ruoli": "T A"
+      },
+      {
+        "nome": "VLASIC",
+        "squadraSerieA": "TO",
+        "valore": 33,
+        "contratto": 3,
+        "ruoli": "CC T SP"
       },
       {
         "nome": "THURAM K.",
         "squadraSerieA": "JU",
-        "valore": 10,
+        "valore": 9,
         "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "COLPANI",
+        "squadraSerieA": "MO",
+        "valore": 9,
         "contratto": 3,
-        "ruoli": "CC T"
+        "ruoli": "CC T AD"
       },
       {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
+        "nome": "POLITANO",
+        "squadraSerieA": "NA",
+        "valore": 9,
         "contratto": 3,
-        "ruoli": "CD AS AD"
+        "ruoli": "CD AD SP"
       },
       {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
+        "nome": "FERGUSON",
         "squadraSerieA": "BO",
-        "valore": 6,
+        "valore": 7,
         "contratto": 3,
         "ruoli": "M CC T"
       },
       {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
+        "nome": "RASPADORI",
+        "squadraSerieA": "AT",
+        "valore": 14,
         "contratto": 3,
-        "ruoli": "M CC T"
+        "ruoli": "AS SP PC"
       },
       {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
-        "contratto": 3,
-        "ruoli": "T AS AD"
-      },
-      {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
-      },
-      {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "M CC"
-      },
-      {
-        "nome": "PELLEGRINO M.",
+        "nome": "GNONTO",
         "squadraSerieA": "FI",
-        "valore": 15,
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "SP A"
+      },
+      {
+        "nome": "ROMERO D.",
+        "squadraSerieA": "PA",
+        "valore": 10,
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "RODRIGUEZ JE.",
+        "nome": "SCAMACCA",
+        "squadraSerieA": "AT",
+        "valore": 88,
+        "contratto": 3,
+        "ruoli": "PC"
+      },
+      {
+        "nome": "DOUVIKAS",
         "squadraSerieA": "CO",
-        "valore": 12,
-        "contratto": 3,
-        "ruoli": "AS AD"
-      },
-      {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "PC SP AD"
-      },
-      {
-        "nome": "KULENOVIC",
-        "squadraSerieA": "TO",
-        "valore": 4,
+        "valore": 22,
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
+        "nome": "BOGA",
+        "squadraSerieA": "JU",
+        "valore": 20,
         "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "LAURIENTÈ",
-        "squadraSerieA": "SA",
-        "valore": 15,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "T AS SP"
       }
     ]
   },
   "FC SOFIA": {
     "allenatore": {
-      "nome": "CONTE",
+      "nome": "CHIVU",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "SVILAR",
+        "squadraSerieA": "RO",
+        "valore": 19,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
+        "nome": "GOLLINI",
+        "squadraSerieA": "RO",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
+        "nome": "DE MARZI",
+        "squadraSerieA": "RO",
+        "valore": 1,
         "contratto": 3,
-        "ruoli": "DC"
-      },
-      {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS CS"
+        "ruoli": "POR"
       },
       {
         "nome": "AKANJI",
         "squadraSerieA": "IN",
-        "valore": 16,
+        "valore": 15,
         "contratto": 3,
         "ruoli": "DC DE"
       },
       {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
+        "nome": "LULLI",
+        "squadraSerieA": "RO",
+        "valore": 2,
         "contratto": 3,
-        "ruoli": "DC DD M"
+        "ruoli": "DD CD"
       },
       {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
+        "nome": "WESLEY",
+        "squadraSerieA": "RO",
+        "valore": 28,
+        "contratto": 3,
+        "ruoli": "DD CE"
+      },
+      {
+        "nome": "HERMOSO",
+        "squadraSerieA": "RO",
+        "valore": 21,
+        "contratto": 3,
+        "ruoli": "DC DS"
+      },
+      {
+        "nome": "RRAHMANI",
+        "squadraSerieA": "",
+        "valore": 30,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "MONTERISI",
+        "squadraSerieA": "FR",
+        "valore": 6,
+        "contratto": 3,
+        "ruoli": "DC DD"
+      },
+      {
+        "nome": "GILA",
+        "squadraSerieA": "MI",
+        "valore": 13,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
         "nome": "VALDEPENAS",
         "squadraSerieA": "FI",
-        "valore": 6,
+        "valore": 9,
         "contratto": 3,
         "ruoli": "DC DS"
       },
       {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
+        "nome": "CORREIA T.",
+        "squadraSerieA": "VE",
+        "valore": 5,
+        "contratto": 3,
+        "ruoli": "DE CD"
+      },
+      {
+        "nome": "JUAN JESUS",
+        "squadraSerieA": "VE",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "DS CS AS"
-      },
-      {
-        "nome": "VALLE",
-        "squadraSerieA": "CO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DS"
-      },
-      {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
-        "valore": 7,
-        "contratto": 3,
         "ruoli": "DC DS"
       },
       {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
+        "nome": "GUDMUNDSSON A.",
+        "squadraSerieA": "LA",
+        "valore": 31,
+        "contratto": 3,
+        "ruoli": "T AS SP"
+      },
+      {
+        "nome": "MORA",
+        "squadraSerieA": "RO",
+        "valore": 47,
+        "contratto": 3,
+        "ruoli": "T A"
+      },
+      {
+        "nome": "PISILLI",
+        "squadraSerieA": "RO",
         "valore": 7,
         "contratto": 3,
-        "ruoli": "DC M CC"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
+        "nome": "PASALIC",
+        "squadraSerieA": "AT",
         "valore": 8,
         "contratto": 3,
-        "ruoli": "CD T AD"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "THURAM K.",
+        "nome": "SARR P.",
         "squadraSerieA": "JU",
-        "valore": 10,
+        "valore": 7,
         "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "NDOUR",
+        "squadraSerieA": "FI",
+        "valore": 7,
         "contratto": 3,
-        "ruoli": "CC T"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
+        "nome": "MODRIC",
+        "squadraSerieA": "MI",
+        "valore": 12,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "SAELEMAEKERS",
+        "squadraSerieA": "MI",
+        "valore": 11,
         "contratto": 3,
         "ruoli": "CD AS AD"
       },
       {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
+        "nome": "LIBERALI",
+        "squadraSerieA": "CO",
         "valore": 6,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
         "contratto": 3,
         "ruoli": "T AS AD"
       },
       {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
-        "valore": 4,
+        "nome": "MCTOMINAY",
+        "squadraSerieA": "NA",
+        "valore": 45,
         "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "SOULè",
+        "squadraSerieA": "RO",
+        "valore": 13,
         "contratto": 3,
-        "ruoli": "M CC"
+        "ruoli": "T AD SP"
+      },
+      {
+        "nome": "KOLO MUANI",
+        "squadraSerieA": "JU",
+        "valore": 75,
+        "contratto": 3,
+        "ruoli": "PC A"
       },
       {
         "nome": "PELLEGRINO M.",
         "squadraSerieA": "FI",
-        "valore": 15,
+        "valore": 14,
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "RODRIGUEZ JE.",
-        "squadraSerieA": "CO",
-        "valore": 12,
+        "nome": "BONNY",
+        "squadraSerieA": "IN",
+        "valore": 37,
         "contratto": 3,
-        "ruoli": "AS AD"
+        "ruoli": "SP PC"
       },
       {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
-        "valore": 4,
+        "nome": "GHEDJEMIS",
+        "squadraSerieA": "FR",
+        "valore": 8,
         "contratto": 3,
-        "ruoli": "PC SP AD"
+        "ruoli": "T AS AD"
       },
       {
-        "nome": "KULENOVIC",
-        "squadraSerieA": "TO",
-        "valore": 4,
+        "nome": "ADAMS A.",
+        "squadraSerieA": "VE",
+        "valore": 11,
         "contratto": 3,
         "ruoli": "PC"
-      },
-      {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "LAURIENTÈ",
-        "squadraSerieA": "SA",
-        "valore": 15,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
       }
     ]
   },
@@ -643,205 +643,205 @@
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "VICARIO",
+        "squadraSerieA": "JU",
+        "valore": 29,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
+        "nome": "GRABARA",
+        "squadraSerieA": "JU",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
+        "nome": "PINSOGLIO",
+        "squadraSerieA": "JU",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "POR"
+      },
+      {
+        "nome": "THEATE",
+        "squadraSerieA": "BO",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "DC DS"
+      },
+      {
+        "nome": "MOLINA N.",
+        "squadraSerieA": "RO",
+        "valore": 18,
+        "contratto": 3,
+        "ruoli": "DD CD"
+      },
+      {
+        "nome": "SUGAWARA",
+        "squadraSerieA": "CA",
+        "valore": 6,
+        "contratto": 3,
+        "ruoli": "DD DC CD"
+      },
+      {
+        "nome": "GHILARDI",
+        "squadraSerieA": "RO",
         "valore": 5,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
-        "valore": 6,
+        "nome": "BREMER",
+        "squadraSerieA": "JU",
+        "valore": 36,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "DIMARCO",
+        "squadraSerieA": "IN",
+        "valore": 85,
         "contratto": 3,
         "ruoli": "DC DS CS"
       },
       {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
+        "nome": "SABELLI",
+        "squadraSerieA": "GE",
+        "valore": 2,
         "contratto": 3,
-        "ruoli": "DC DE"
+        "ruoli": "DE CD"
       },
       {
-        "nome": "ANTOV",
+        "nome": "ZIOLKOWSKI",
         "squadraSerieA": "MO",
         "valore": 1,
-        "contratto": 3,
-        "ruoli": "DC DD M"
-      },
-      {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "VALDEPENAS",
+        "nome": "BELLANOVA",
+        "squadraSerieA": "AT",
+        "valore": 6,
+        "contratto": 3,
+        "ruoli": "DD CE"
+      },
+      {
+        "nome": "ZAPPACOSTA",
+        "squadraSerieA": "AT",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "DD CE"
+      },
+      {
+        "nome": "MONTEIRO J.",
+        "squadraSerieA": "LE",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "CS AS PC"
+      },
+      {
+        "nome": "OULAI",
         "squadraSerieA": "FI",
         "valore": 6,
         "contratto": 3,
-        "ruoli": "DC DS"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "DS CS AS"
-      },
-      {
-        "nome": "VALLE",
-        "squadraSerieA": "CO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DS"
-      },
-      {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC M CC"
-      },
-      {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
-        "valore": 8,
-        "contratto": 3,
-        "ruoli": "CD T AD"
-      },
-      {
-        "nome": "THURAM K.",
-        "squadraSerieA": "JU",
-        "valore": 10,
+        "nome": "JASHARI",
+        "squadraSerieA": "MI",
+        "valore": 5,
         "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "CISSè A.",
+        "squadraSerieA": "MI",
+        "valore": 15,
         "contratto": 3,
-        "ruoli": "CC T"
+        "ruoli": "CC T SP"
       },
       {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
-        "contratto": 3,
-        "ruoli": "CD AS AD"
-      },
-      {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "TAYLOR K.",
+        "nome": "ISAKSEN",
         "squadraSerieA": "LA",
-        "valore": 13,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
-        "contratto": 3,
-        "ruoli": "T AS AD"
-      },
-      {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
-        "valore": 4,
+        "valore": 9,
         "contratto": 3,
         "ruoli": "AS AD PC"
       },
       {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "M CC"
-      },
-      {
-        "nome": "PELLEGRINO M.",
-        "squadraSerieA": "FI",
-        "valore": 15,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "RODRIGUEZ JE.",
-        "squadraSerieA": "CO",
+        "nome": "GONZALEZ N.",
+        "squadraSerieA": "JU",
         "valore": 12,
         "contratto": 3,
-        "ruoli": "AS AD"
+        "ruoli": "A PC"
       },
       {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
-        "valore": 4,
+        "nome": "BARELLA",
+        "squadraSerieA": "IN",
+        "valore": 36,
         "contratto": 3,
-        "ruoli": "PC SP AD"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "KULENOVIC",
-        "squadraSerieA": "TO",
-        "valore": 4,
+        "nome": "VERGARA",
+        "squadraSerieA": "NA",
+        "valore": 10,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "CD T AD"
       },
       {
-        "nome": "AZON",
+        "nome": "MILLA",
         "squadraSerieA": "CO",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "PELLEGRINI LO.",
+        "squadraSerieA": "RO",
+        "valore": 9,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "KEAN",
+        "squadraSerieA": "CO",
+        "valore": 170,
+        "contratto": 3,
+        "ruoli": "PC A"
+      },
+      {
+        "nome": "ROBINHO JUNIOR",
+        "squadraSerieA": "GE",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "A T"
+      },
+      {
+        "nome": "BAYO V.",
+        "squadraSerieA": "UD",
         "valore": 1,
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "LAURIENTÈ",
-        "squadraSerieA": "SA",
-        "valore": 15,
+        "nome": "LISMAN",
+        "squadraSerieA": "VE",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "CD AS AD"
+      },
+      {
+        "nome": "EKHATOR",
+        "squadraSerieA": "JU",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "AS SP PC"
+      },
+      {
+        "nome": "HAVEL",
+        "squadraSerieA": "GE",
+        "valore": 1,
         "contratto": 3,
         "ruoli": "AS AD PC"
       }
@@ -849,355 +849,313 @@
   },
   "IL SIGNOR G": {
     "allenatore": {
-      "nome": "CONTE",
+      "nome": "GASPERINI",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "BUTEZ",
+        "squadraSerieA": "CO",
+        "valore": 15,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
+        "nome": "DE GEA",
+        "squadraSerieA": "FI",
+        "valore": 11,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
+        "nome": "LEZZERINI",
+        "squadraSerieA": "FI",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
+        "nome": "TIAGO GABRIEL",
+        "squadraSerieA": "LE",
+        "valore": 8,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
-        "valore": 6,
+        "nome": "MIRANDA J.",
+        "squadraSerieA": "BO",
+        "valore": 8,
         "contratto": 3,
-        "ruoli": "DC DS CS"
+        "ruoli": "DS CS"
       },
       {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
-        "contratto": 3,
-        "ruoli": "DC DE"
-      },
-      {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
+        "nome": "CHALOBAH T.",
+        "squadraSerieA": "CO",
+        "valore": 20,
         "contratto": 3,
         "ruoli": "DC DD M"
       },
       {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
+        "nome": "SOLET",
+        "squadraSerieA": "UD",
+        "valore": 16,
+        "contratto": 3,
+        "ruoli": "DC M"
+      },
+      {
+        "nome": "MANCINI",
+        "squadraSerieA": "RO",
+        "valore": 21,
+        "contratto": 3,
+        "ruoli": "DC M"
+      },
+      {
+        "nome": "N'DICKA",
+        "squadraSerieA": "RO",
+        "valore": 13,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "VALDEPENAS",
-        "squadraSerieA": "FI",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "DS CS AS"
-      },
-      {
-        "nome": "VALLE",
-        "squadraSerieA": "CO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DS"
-      },
-      {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC M CC"
-      },
-      {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
-        "valore": 8,
-        "contratto": 3,
-        "ruoli": "CD T AD"
-      },
-      {
-        "nome": "THURAM K.",
-        "squadraSerieA": "JU",
+        "nome": "VALERI",
+        "squadraSerieA": "PA",
         "valore": 10,
         "contratto": 3,
+        "ruoli": "DS CS"
+      },
+      {
+        "nome": "BELGHALI",
+        "squadraSerieA": "TO",
+        "valore": 11,
+        "contratto": 3,
+        "ruoli": "DD CE"
+      },
+      {
+        "nome": "CAMBIASO",
+        "squadraSerieA": "JU",
+        "valore": 11,
+        "contratto": 3,
+        "ruoli": "DE CS"
+      },
+      {
+        "nome": "MINA",
+        "squadraSerieA": "CA",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "SCHMID",
+        "squadraSerieA": "FR",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "CC T CS"
+      },
+      {
+        "nome": "ROMANO",
+        "squadraSerieA": "CA",
+        "valore": 7,
+        "contratto": 3,
         "ruoli": "M CC"
+      },
+      {
+        "nome": "AKINSANMIRO",
+        "squadraSerieA": "MO",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "CC CD T"
+      },
+      {
+        "nome": "CALò",
+        "squadraSerieA": "FR",
+        "valore": 20,
+        "contratto": 3,
+        "ruoli": "M CC"
+      },
+      {
+        "nome": "EKKELENKAMP",
+        "squadraSerieA": "UD",
+        "valore": 26,
+        "contratto": 3,
+        "ruoli": "CC CS T"
       },
       {
         "nome": "ADZIC",
         "squadraSerieA": "SA",
-        "valore": 5,
+        "valore": 16,
         "contratto": 3,
         "ruoli": "CC T"
       },
       {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
+        "nome": "ROWE",
+        "squadraSerieA": "AT",
+        "valore": 21,
+        "contratto": 3,
+        "ruoli": "T A"
+      },
+      {
+        "nome": "ZERBIN",
+        "squadraSerieA": "FR",
+        "valore": 6,
         "contratto": 3,
         "ruoli": "CD AS AD"
       },
       {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
-        "valore": 6,
+        "nome": "DA CUNHA",
+        "squadraSerieA": "CO",
+        "valore": 33,
         "contratto": 3,
         "ruoli": "M CC T"
       },
       {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
-        "contratto": 3,
-        "ruoli": "T AS AD"
-      },
-      {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
-      },
-      {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "FRENDRUP",
+        "squadraSerieA": "GE",
+        "valore": 7,
         "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "PELLEGRINO M.",
-        "squadraSerieA": "FI",
-        "valore": 15,
+        "nome": "RAIMONDO",
+        "squadraSerieA": "FR",
+        "valore": 9,
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "RODRIGUEZ JE.",
-        "squadraSerieA": "CO",
-        "valore": 12,
+        "nome": "DYBALA",
+        "squadraSerieA": "RO",
+        "valore": 78,
         "contratto": 3,
-        "ruoli": "AS AD"
+        "ruoli": "AD SP PC"
       },
       {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "PC SP AD"
-      },
-      {
-        "nome": "KULENOVIC",
+        "nome": "SIMEONE",
         "squadraSerieA": "TO",
-        "valore": 4,
+        "valore": "",
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "LAURIENTÈ",
+        "nome": "LAURIENTè",
         "squadraSerieA": "SA",
         "valore": 15,
         "contratto": 3,
         "ruoli": "AS AD PC"
+      },
+      {
+        "nome": "VARELA G.",
+        "squadraSerieA": "MO",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "PC"
+      },
+      {
+        "nome": "KEVIN CARLOS",
+        "squadraSerieA": "CA",
+        "valore": 12,
+        "contratto": 3,
+        "ruoli": "PC"
       }
     ]
   },
   "INPSWICH FC": {
     "allenatore": {
-      "nome": "SPALLETTI",
+      "nome": "AMORIM",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "DC"
-      },
-      {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS CS"
-      },
-      {
-        "nome": "AKANJI",
+        "nome": "MARTINEZ JO.",
         "squadraSerieA": "IN",
-        "valore": 16,
+        "valore": 17,
         "contratto": 3,
-        "ruoli": "DC DE"
+        "ruoli": "POR"
       },
       {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "DC DD M"
-      },
-      {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "DC"
-      },
-      {
-        "nome": "VALDEPENAS",
-        "squadraSerieA": "FI",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "DS CS AS"
-      },
-      {
-        "nome": "VALLE",
+        "nome": "SANCHEZ RO.",
         "squadraSerieA": "CO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DS"
-      },
-      {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC M CC"
-      },
-      {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
         "valore": 8,
         "contratto": 3,
-        "ruoli": "CD T AD"
+        "ruoli": "POR"
       },
       {
-        "nome": "THURAM K.",
-        "squadraSerieA": "JU",
-        "valore": 10,
+        "nome": "PROVEDEL",
+        "squadraSerieA": "IN",
+        "valore": 1,
         "contratto": 3,
-        "ruoli": "M CC"
+        "ruoli": "POR"
       },
       {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
-        "contratto": 3,
-        "ruoli": "CD AS AD"
-      },
-      {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
+        "nome": "PAVARD",
+        "squadraSerieA": "IN",
         "valore": 6,
         "contratto": 3,
-        "ruoli": "M CC T"
+        "ruoli": "DC DD"
+      },
+      {
+        "nome": "SPENCE",
+        "squadraSerieA": "IN",
+        "valore": 11,
+        "contratto": 3,
+        "ruoli": "DE CD"
+      },
+      {
+        "nome": "BIRINDELLI",
+        "squadraSerieA": "MO",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "DE CD"
+      },
+      {
+        "nome": "HAINAUT",
+        "squadraSerieA": "VE",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "DC DD CC"
+      },
+      {
+        "nome": "TAVARES N.",
+        "squadraSerieA": "LA",
+        "valore": 16,
+        "contratto": 3,
+        "ruoli": "DE CS"
+      },
+      {
+        "nome": "PONGRACIC",
+        "squadraSerieA": "FI",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "BASTONI",
+        "squadraSerieA": "IN",
+        "valore": 14,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "PROVSTGAARD",
+        "squadraSerieA": "LA",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "BALERDI",
+        "squadraSerieA": "RO",
+        "valore": 6,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "COMERT",
+        "squadraSerieA": "TO",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "DC M"
       },
       {
         "nome": "TAYLOR K.",
@@ -1207,285 +1165,327 @@
         "ruoli": "M CC T"
       },
       {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
+        "nome": "KONè M.",
+        "squadraSerieA": "RO",
+        "valore": 10,
         "contratto": 3,
-        "ruoli": "T AS AD"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
-      },
-      {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "M CC"
-      },
-      {
-        "nome": "PELLEGRINO M.",
+        "nome": "GONCALVES P.",
         "squadraSerieA": "FI",
-        "valore": 15,
+        "valore": 32,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "C A"
+      },
+      {
+        "nome": "PAZ N.",
+        "squadraSerieA": "CO",
+        "valore": 90,
+        "contratto": 3,
+        "ruoli": "T AD PC"
+      },
+      {
+        "nome": "BRESCIANINI",
+        "squadraSerieA": "FI",
+        "valore": 3,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "VENTURINO",
+        "squadraSerieA": "GE",
+        "valore": 2,
+        "contratto": 3,
+        "ruoli": "CD AS AD"
       },
       {
         "nome": "RODRIGUEZ JE.",
         "squadraSerieA": "CO",
-        "valore": 12,
+        "valore": 11,
         "contratto": 3,
         "ruoli": "AS AD"
       },
       {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
+        "nome": "DE ROON",
+        "squadraSerieA": "RO",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "PC SP AD"
+        "ruoli": "DC M CC"
       },
       {
-        "nome": "KULENOVIC",
-        "squadraSerieA": "TO",
-        "valore": 4,
+        "nome": "HUTCHINSON",
+        "squadraSerieA": "MI",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "A T"
+      },
+      {
+        "nome": "KOOPMEINERS",
+        "squadraSerieA": "JU",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "DC M T"
+      },
+      {
+        "nome": "ESPOSITO F.P.",
+        "squadraSerieA": "IN",
+        "valore": 66,
         "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "LAURIENTÈ",
+        "nome": "BERARDI",
         "squadraSerieA": "SA",
-        "valore": 15,
+        "valore": 38,
         "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "AD SP"
+      },
+      {
+        "nome": "WOLTEMADE",
+        "squadraSerieA": "JU",
+        "valore": 23,
+        "contratto": 3,
+        "ruoli": "PC T SP"
+      },
+      {
+        "nome": "KRSTOVIC",
+        "squadraSerieA": "AT",
+        "valore": 18,
+        "contratto": 3,
+        "ruoli": "PC"
+      },
+      {
+        "nome": "DE KETELAERE",
+        "squadraSerieA": "AT",
+        "valore": 17,
+        "contratto": 3,
+        "ruoli": "T AD PC"
+      },
+      {
+        "nome": "SANTOS A.",
+        "squadraSerieA": "NA",
+        "valore": 14,
+        "contratto": 3,
+        "ruoli": "T AS"
       }
     ]
   },
   "PARTENAZZURRI": {
     "allenatore": {
-      "nome": "CONTE",
+      "nome": "RUNJAIC",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "OKOYE",
+        "squadraSerieA": "UD",
+        "valore": 9,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
+        "nome": "SKORUPSKI",
+        "squadraSerieA": "BO",
+        "valore": 10,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
+        "nome": "MROZEK",
+        "squadraSerieA": "UD",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
+        "nome": "OSTIGARD",
+        "squadraSerieA": "GE",
+        "valore": 11,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
-        "valore": 6,
+        "nome": "MARIN R.",
+        "squadraSerieA": "NA",
+        "valore": 2,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "BARTESAGHI",
+        "squadraSerieA": "MI",
+        "valore": 8,
         "contratto": 3,
         "ruoli": "DC DS CS"
       },
       {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
-        "contratto": 3,
-        "ruoli": "DC DE"
-      },
-      {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "DC DD M"
-      },
-      {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
+        "nome": "RAMON",
+        "squadraSerieA": "CO",
+        "valore": 10,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "VALDEPENAS",
-        "squadraSerieA": "FI",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "DS CS AS"
-      },
-      {
-        "nome": "VALLE",
-        "squadraSerieA": "CO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DS"
-      },
-      {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC M CC"
-      },
-      {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
-        "valore": 8,
-        "contratto": 3,
-        "ruoli": "CD T AD"
-      },
-      {
-        "nome": "THURAM K.",
+        "nome": "CELIK",
         "squadraSerieA": "JU",
         "valore": 10,
         "contratto": 3,
+        "ruoli": "DC DD CD"
+      },
+      {
+        "nome": "KAMARA H.",
+        "squadraSerieA": "UD",
+        "valore": 13,
+        "contratto": 3,
+        "ruoli": "DE CS"
+      },
+      {
+        "nome": "MARCANDALLI",
+        "squadraSerieA": "GE",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "ABANKWAH",
+        "squadraSerieA": "UD",
+        "valore": 2,
+        "contratto": 3,
+        "ruoli": "DC DD"
+      },
+      {
+        "nome": "KOSSOUNOU",
+        "squadraSerieA": "AT",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "DC DD"
+      },
+      {
+        "nome": "ALHASSANE",
+        "squadraSerieA": "BO",
+        "valore": 2,
+        "contratto": 3,
+        "ruoli": "DC DS"
+      },
+      {
+        "nome": "KESSIè",
+        "squadraSerieA": "AT",
+        "valore": 12,
+        "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "GAETANO",
+        "squadraSerieA": "AT",
+        "valore": 7,
         "contratto": 3,
-        "ruoli": "CC T"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
+        "nome": "ILIC",
+        "squadraSerieA": "LE",
+        "valore": 1,
         "contratto": 3,
-        "ruoli": "CD AS AD"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
+        "nome": "EDERSON D.S.",
+        "squadraSerieA": "AT",
+        "valore": 12,
         "contratto": 3,
-        "ruoli": "CC T"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
+        "nome": "ZIELINSKI",
+        "squadraSerieA": "IN",
+        "valore": 30,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "MCKENNIE",
+        "squadraSerieA": "JU",
+        "valore": 41,
+        "contratto": 3,
+        "ruoli": "CC CD T"
+      },
+      {
+        "nome": "CACCIAMANI",
+        "squadraSerieA": "TO",
         "valore": 6,
         "contratto": 3,
-        "ruoli": "M CC T"
+        "ruoli": "CS AS"
       },
       {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
+        "nome": "BALDANZI",
+        "squadraSerieA": "GE",
         "valore": 11,
         "contratto": 3,
-        "ruoli": "T AS AD"
+        "ruoli": "T AD SP"
       },
       {
-        "nome": "ALMQVIST",
+        "nome": "FABBIAN",
         "squadraSerieA": "PA",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "M CC"
-      },
-      {
-        "nome": "PELLEGRINO M.",
-        "squadraSerieA": "FI",
-        "valore": 15,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "RODRIGUEZ JE.",
-        "squadraSerieA": "CO",
-        "valore": 12,
-        "contratto": 3,
-        "ruoli": "AS AD"
-      },
-      {
-        "nome": "GUEYE",
+        "nome": "MILLER L.",
         "squadraSerieA": "UD",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "PC SP AD"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "KULENOVIC",
-        "squadraSerieA": "TO",
+        "nome": "MARTINEZ L.",
+        "squadraSerieA": "IN",
+        "valore": 211,
+        "contratto": 3,
+        "ruoli": "SP PC"
+      },
+      {
+        "nome": "BETO",
+        "squadraSerieA": "FI",
+        "valore": 45,
+        "contratto": 3,
+        "ruoli": "PC"
+      },
+      {
+        "nome": "MALDINI",
+        "squadraSerieA": "CA",
+        "valore": 5,
+        "contratto": 3,
+        "ruoli": "T AS PC"
+      },
+      {
+        "nome": "TOURè E.",
+        "squadraSerieA": "PA",
+        "valore": 10,
+        "contratto": 3,
+        "ruoli": "PC A"
+      },
+      {
+        "nome": "FRIGAN",
+        "squadraSerieA": "PA",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "AD PC"
       },
       {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
+        "nome": "STULIC",
+        "squadraSerieA": "LE",
+        "valore": 6,
         "contratto": 3,
         "ruoli": "PC"
-      },
-      {
-        "nome": "LAURIENTÈ",
-        "squadraSerieA": "SA",
-        "valore": 15,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
       }
     ]
   },
   "SCOGLIO FFC": {
     "allenatore": {
-      "nome": "SPALLETTI",
+      "nome": "DE ROSSI",
       "contratto": 3,
       "ruoli": "ALL"
     },
@@ -1493,629 +1493,629 @@
       {
         "nome": "CARNESECCHI",
         "squadraSerieA": "AT",
-        "valore": 16,
+        "valore": 30,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
+        "nome": "CORVI",
+        "squadraSerieA": "PA",
+        "valore": 2,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "DC"
-      },
-      {
-        "nome": "AHANOR",
+        "nome": "SPORTIELLO",
         "squadraSerieA": "AT",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS CS"
-      },
-      {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
-        "contratto": 3,
-        "ruoli": "DC DE"
-      },
-      {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
         "valore": 1,
+        "contratto": 3,
+        "ruoli": "POR"
+      },
+      {
+        "nome": "STONES",
+        "squadraSerieA": "IN",
+        "valore": 12,
         "contratto": 3,
         "ruoli": "DC DD M"
       },
       {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
+        "nome": "SCALVINI",
+        "squadraSerieA": "AT",
+        "valore": 10,
+        "contratto": 3,
+        "ruoli": "DC M"
+      },
+      {
+        "nome": "KRISTENSEN T.",
+        "squadraSerieA": "AT",
+        "valore": 6,
         "contratto": 3,
         "ruoli": "DC"
       },
       {
-        "nome": "VALDEPENAS",
-        "squadraSerieA": "FI",
-        "valore": 6,
+        "nome": "DE WINTER",
+        "squadraSerieA": "MI",
+        "valore": 8,
         "contratto": 3,
-        "ruoli": "DC DS"
+        "ruoli": "DC DD M"
       },
       {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
+        "nome": "BISSECK",
+        "squadraSerieA": "IN",
+        "valore": 21,
         "contratto": 3,
-        "ruoli": "DS CS AS"
+        "ruoli": "DC DD CD"
       },
       {
-        "nome": "VALLE",
+        "nome": "KAIKI",
         "squadraSerieA": "CO",
         "valore": 6,
         "contratto": 3,
         "ruoli": "DS"
       },
       {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
-        "contratto": 3,
-        "ruoli": "DC M CC"
-      },
-      {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
-        "valore": 8,
-        "contratto": 3,
-        "ruoli": "CD T AD"
-      },
-      {
-        "nome": "THURAM K.",
-        "squadraSerieA": "JU",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "M CC"
-      },
-      {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
-        "contratto": 3,
-        "ruoli": "CD AS AD"
-      },
-      {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
+        "nome": "FORTINI",
+        "squadraSerieA": "TO",
         "valore": 6,
         "contratto": 3,
-        "ruoli": "M CC T"
+        "ruoli": "DE CE"
       },
       {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
+        "nome": "GALLO",
+        "squadraSerieA": "LE",
+        "valore": 6,
         "contratto": 3,
-        "ruoli": "M CC T"
+        "ruoli": "DS CS"
       },
       {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
-        "contratto": 3,
-        "ruoli": "T AS AD"
-      },
-      {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
+        "nome": "MITAJ",
+        "squadraSerieA": "GE",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "DS M CS"
       },
       {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "MAZZOCCHI",
+        "squadraSerieA": "VE",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "DD CE"
+      },
+      {
+        "nome": "JONES C.",
+        "squadraSerieA": "IN",
+        "valore": 12,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "FRATTESI",
+        "squadraSerieA": "LA",
+        "valore": 64,
+        "contratto": 3,
+        "ruoli": "CC T"
+      },
+      {
+        "nome": "CALHANOGLU",
+        "squadraSerieA": "IN",
+        "valore": 91,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "RICCI S.",
+        "squadraSerieA": "CO",
+        "valore": 4,
         "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "PELLEGRINO M.",
-        "squadraSerieA": "FI",
-        "valore": 15,
+        "nome": "SUCIC P.",
+        "squadraSerieA": "IN",
+        "valore": 14,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "M CC"
       },
       {
-        "nome": "RODRIGUEZ JE.",
-        "squadraSerieA": "CO",
-        "valore": 12,
-        "contratto": 3,
-        "ruoli": "AS AD"
-      },
-      {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
+        "nome": "TRAORÈ HJ.",
+        "squadraSerieA": "GE",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "PC SP AD"
+        "ruoli": "CC T AS"
       },
       {
-        "nome": "KULENOVIC",
+        "nome": "MANDRAGORA",
         "squadraSerieA": "TO",
-        "valore": 4,
+        "valore": 8,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "M CC"
       },
       {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
+        "nome": "STANKOVIC A.",
+        "squadraSerieA": "IN",
+        "valore": 3,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "LAURIENTÈ",
-        "squadraSerieA": "SA",
-        "valore": 15,
+        "nome": "ELMAS",
+        "squadraSerieA": "AT",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "CC T AS"
+      },
+      {
+        "nome": "CASADEI",
+        "squadraSerieA": "TO",
+        "valore": 9,
+        "contratto": 3,
+        "ruoli": "M CC T"
+      },
+      {
+        "nome": "CASTRO S.",
+        "squadraSerieA": "RO",
+        "valore": 14,
         "contratto": 3,
         "ruoli": "AS AD PC"
+      },
+      {
+        "nome": "DAVIS K.",
+        "squadraSerieA": "UD",
+        "valore": 61,
+        "contratto": 3,
+        "ruoli": "SP PC"
+      },
+      {
+        "nome": "THURAM",
+        "squadraSerieA": "IN",
+        "valore": 70,
+        "contratto": 3,
+        "ruoli": "AS SP PC"
+      },
+      {
+        "nome": "BOWIE",
+        "squadraSerieA": "SA",
+        "valore": 9,
+        "contratto": 3,
+        "ruoli": "AS AD PC"
+      },
+      {
+        "nome": "YEBOAH J.",
+        "squadraSerieA": "VE",
+        "valore": 9,
+        "contratto": 3,
+        "ruoli": "AS AD SP"
+      },
+      {
+        "nome": "LUCCA",
+        "squadraSerieA": "NA",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "PC"
       }
     ]
   },
   "SCAGLIONE B": {
     "allenatore": {
-      "nome": "CONTE",
+      "nome": "GATTUSO",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "MANDAS",
+        "squadraSerieA": "LA",
+        "valore": 12,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
+        "nome": "MOTTA",
+        "squadraSerieA": "LA",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
-        "valore": 5,
+        "nome": "RENZETTI",
+        "squadraSerieA": "LA",
+        "valore": 1,
         "contratto": 3,
-        "ruoli": "DC"
+        "ruoli": "POR"
       },
       {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
-        "valore": 6,
+        "nome": "BRACAGLIA",
+        "squadraSerieA": "FR",
+        "valore": 7,
         "contratto": 3,
         "ruoli": "DC DS CS"
       },
       {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
+        "nome": "ZORTEA",
+        "squadraSerieA": "BO",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "DE CD"
+      },
+      {
+        "nome": "HEGGEM",
+        "squadraSerieA": "BO",
+        "valore": 6,
         "contratto": 3,
         "ruoli": "DC DE"
       },
       {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "DC DD M"
-      },
-      {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "DC"
-      },
-      {
-        "nome": "VALDEPENAS",
-        "squadraSerieA": "FI",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS"
-      },
-      {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
+        "nome": "HAPS",
+        "squadraSerieA": "VE",
+        "valore": 15,
         "contratto": 3,
         "ruoli": "DS CS AS"
       },
       {
-        "nome": "VALLE",
-        "squadraSerieA": "CO",
-        "valore": 6,
+        "nome": "VOJVODA",
+        "squadraSerieA": "UD",
+        "valore": 41,
+        "contratto": 3,
+        "ruoli": "DC DD CD"
+      },
+      {
+        "nome": "KALULU",
+        "squadraSerieA": "JU",
+        "valore": 20,
+        "contratto": 3,
+        "ruoli": "DC DD"
+      },
+      {
+        "nome": "FLORIANI MUSSOLINI",
+        "squadraSerieA": "LA",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "DD CE"
+      },
+      {
+        "nome": "CARBONI F.",
+        "squadraSerieA": "PA",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "DS CS"
+      },
+      {
+        "nome": "PIERAGNOLO",
+        "squadraSerieA": "SA",
+        "valore": 1,
         "contratto": 3,
         "ruoli": "DS"
       },
       {
-        "nome": "BUONGIORNO",
+        "nome": "AMEY",
+        "squadraSerieA": "FR",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "LOCATELLI",
+        "squadraSerieA": "JU",
+        "valore": 9,
+        "contratto": 3,
+        "ruoli": "M CC"
+      },
+      {
+        "nome": "ZAMBO ANGUISSA",
         "squadraSerieA": "NA",
-        "valore": 7,
+        "valore": 10,
         "contratto": 3,
-        "ruoli": "DC DS"
+        "ruoli": "M CC"
       },
       {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
+        "nome": "BERNARDESCHI",
+        "squadraSerieA": "BO",
+        "valore": 10,
         "contratto": 3,
-        "ruoli": "DC M CC"
+        "ruoli": "T AS AD"
       },
       {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
-        "valore": 8,
+        "nome": "ORSOLINI",
+        "squadraSerieA": "BO",
+        "valore": 25,
         "contratto": 3,
-        "ruoli": "CD T AD"
+        "ruoli": "AS AD SP"
       },
       {
-        "nome": "THURAM K.",
+        "nome": "ZANIOLO",
+        "squadraSerieA": "UD",
+        "valore": 18,
+        "contratto": 3,
+        "ruoli": "T AD SP"
+      },
+      {
+        "nome": "DOUGLAS LUIZ",
         "squadraSerieA": "JU",
         "valore": 10,
         "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
-        "contratto": 3,
-        "ruoli": "CD AS AD"
-      },
-      {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
-        "valore": 6,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
-        "contratto": 3,
-        "ruoli": "T AS AD"
-      },
-      {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
+        "nome": "LOFTUS-CHEEK",
+        "squadraSerieA": "MI",
         "valore": 4,
         "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
+        "nome": "MKHITARYAN",
+        "squadraSerieA": "IN",
+        "valore": 4,
+        "contratto": 3,
+        "ruoli": "CC T SP"
+      },
+      {
+        "nome": "LOBOTKA",
+        "squadraSerieA": "NA",
+        "valore": 8,
         "contratto": 3,
         "ruoli": "M CC"
       },
       {
-        "nome": "PELLEGRINO M.",
-        "squadraSerieA": "FI",
-        "valore": 15,
+        "nome": "ANJORIN",
+        "squadraSerieA": "TO",
+        "valore": 1,
         "contratto": 3,
-        "ruoli": "PC"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "RODRIGUEZ JE.",
-        "squadraSerieA": "CO",
+        "nome": "PINAMONTI",
+        "squadraSerieA": "LA",
         "valore": 12,
         "contratto": 3,
-        "ruoli": "AS AD"
-      },
-      {
-        "nome": "GUEYE",
-        "squadraSerieA": "UD",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "PC SP AD"
-      },
-      {
-        "nome": "KULENOVIC",
-        "squadraSerieA": "TO",
-        "valore": 4,
-        "contratto": 3,
         "ruoli": "PC"
       },
       {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
+        "nome": "MALEN",
+        "squadraSerieA": "RO",
+        "valore": 266,
+        "contratto": 3,
+        "ruoli": "AS AD PC"
+      },
+      {
+        "nome": "LAUBERBACH",
+        "squadraSerieA": "VE",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "AS AD PC"
+      },
+      {
+        "nome": "TREPY",
+        "squadraSerieA": "CA",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "AD SP PC"
+      },
+      {
+        "nome": "DE MARTIS",
+        "squadraSerieA": "PA",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "PC AD CD"
+      },
+      {
+        "nome": "VAZ",
+        "squadraSerieA": "RO",
         "valore": 1,
         "contratto": 3,
         "ruoli": "PC"
-      },
-      {
-        "nome": "LAURIENTÈ",
-        "squadraSerieA": "SA",
-        "valore": 15,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
       }
     ]
   },
   "XAMATT FFC": {
     "allenatore": {
-      "nome": "SPALLETTI",
+      "nome": "SARRI",
       "contratto": 3,
       "ruoli": "ALL"
     },
     "giocatori": [
       {
-        "nome": "CARNESECCHI",
-        "squadraSerieA": "AT",
-        "valore": 16,
+        "nome": "CAPRILE",
+        "squadraSerieA": "CA",
+        "valore": 10,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MILINKOVIC-SAVIC V.",
-        "squadraSerieA": "NA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "POR"
-      },
-      {
-        "nome": "CONTINI",
-        "squadraSerieA": "NA",
+        "nome": "RADUNOVIC",
+        "squadraSerieA": "CA",
         "valore": 1,
         "contratto": 3,
         "ruoli": "POR"
       },
       {
-        "nome": "MORENO M.",
-        "squadraSerieA": "VE",
+        "nome": "SHERRI",
+        "squadraSerieA": "CA",
+        "valore": 1,
+        "contratto": 3,
+        "ruoli": "POR"
+      },
+      {
+        "nome": "CALVANI",
+        "squadraSerieA": "FR",
         "valore": 5,
         "contratto": 3,
-        "ruoli": "DC"
+        "ruoli": "DC DD"
       },
       {
-        "nome": "AHANOR",
-        "squadraSerieA": "AT",
+        "nome": "OYONO A.",
+        "squadraSerieA": "FR",
         "valore": 6,
-        "contratto": 3,
-        "ruoli": "DC DS CS"
-      },
-      {
-        "nome": "AKANJI",
-        "squadraSerieA": "IN",
-        "valore": 16,
         "contratto": 3,
         "ruoli": "DC DE"
       },
       {
-        "nome": "ANTOV",
-        "squadraSerieA": "MO",
-        "valore": 1,
+        "nome": "DOIG",
+        "squadraSerieA": "SA",
+        "valore": 5,
         "contratto": 3,
-        "ruoli": "DC DD M"
+        "ruoli": "DS CS"
       },
       {
-        "nome": "GATTI",
-        "squadraSerieA": "JU",
+        "nome": "TCHATO",
+        "squadraSerieA": "FR",
+        "valore": 3,
+        "contratto": 3,
+        "ruoli": "D"
+      },
+      {
+        "nome": "RODRIGUEZ JU.",
+        "squadraSerieA": "CA",
         "valore": 4,
-        "contratto": 3,
-        "ruoli": "DC"
-      },
-      {
-        "nome": "VALDEPENAS",
-        "squadraSerieA": "FI",
-        "valore": 6,
         "contratto": 3,
         "ruoli": "DC DS"
       },
       {
-        "nome": "ARIZALA",
-        "squadraSerieA": "UD",
-        "valore": 4,
+        "nome": "Zè PEDRO",
+        "squadraSerieA": "CA",
+        "valore": 5,
+        "contratto": 3,
+        "ruoli": "DC DD"
+      },
+      {
+        "nome": "MANGAS",
+        "squadraSerieA": "MO",
+        "valore": 9,
         "contratto": 3,
         "ruoli": "DS CS AS"
       },
       {
-        "nome": "VALLE",
-        "squadraSerieA": "CO",
-        "valore": 6,
+        "nome": "OBERT",
+        "squadraSerieA": "CA",
+        "valore": 10,
         "contratto": 3,
-        "ruoli": "DS"
+        "ruoli": "DC DS CS"
       },
       {
-        "nome": "BUONGIORNO",
-        "squadraSerieA": "NA",
+        "nome": "COCO",
+        "squadraSerieA": "TO",
         "valore": 7,
         "contratto": 3,
-        "ruoli": "DC DS"
+        "ruoli": "DC DD CC"
       },
       {
-        "nome": "IDZES",
-        "squadraSerieA": "SA",
-        "valore": 7,
+        "nome": "LUCUMì",
+        "squadraSerieA": "JU",
+        "valore": 10,
+        "contratto": 3,
+        "ruoli": "DC"
+      },
+      {
+        "nome": "CRISTANTE",
+        "squadraSerieA": "RO",
+        "valore": 9,
         "contratto": 3,
         "ruoli": "DC M CC"
       },
       {
-        "nome": "VERGARA",
-        "squadraSerieA": "NA",
-        "valore": 8,
-        "contratto": 3,
-        "ruoli": "CD T AD"
-      },
-      {
-        "nome": "THURAM K.",
-        "squadraSerieA": "JU",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "M CC"
-      },
-      {
-        "nome": "ADZIC",
-        "squadraSerieA": "SA",
+        "nome": "BUSIO",
+        "squadraSerieA": "VE",
         "valore": 5,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "VENTURINO",
-        "squadraSerieA": "GE",
-        "valore": 2,
-        "contratto": 3,
-        "ruoli": "CD AS AD"
-      },
-      {
-        "nome": "THORSTVEDT",
-        "squadraSerieA": "SA",
-        "valore": 10,
-        "contratto": 3,
-        "ruoli": "CC T"
-      },
-      {
-        "nome": "POBEGA",
-        "squadraSerieA": "BO",
-        "valore": 6,
         "contratto": 3,
         "ruoli": "M CC T"
       },
       {
-        "nome": "TAYLOR K.",
-        "squadraSerieA": "LA",
-        "valore": 13,
-        "contratto": 3,
-        "ruoli": "M CC T"
-      },
-      {
-        "nome": "ROWE",
-        "squadraSerieA": "BO",
-        "valore": 11,
-        "contratto": 3,
-        "ruoli": "T AS AD"
-      },
-      {
-        "nome": "ALMQVIST",
-        "squadraSerieA": "PA",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "AS AD PC"
-      },
-      {
-        "nome": "MATIC",
-        "squadraSerieA": "SA",
-        "valore": 5,
-        "contratto": 3,
-        "ruoli": "M CC"
-      },
-      {
-        "nome": "PELLEGRINO M.",
-        "squadraSerieA": "FI",
-        "valore": 15,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "RODRIGUEZ JE.",
+        "nome": "PERRONE",
         "squadraSerieA": "CO",
-        "valore": 12,
+        "valore": 10,
+        "contratto": 3,
+        "ruoli": "M CC"
+      },
+      {
+        "nome": "CHUKWUEZE",
+        "squadraSerieA": "MI",
+        "valore": 13,
         "contratto": 3,
         "ruoli": "AS AD"
       },
       {
-        "nome": "GUEYE",
+        "nome": "MASTANTUONO",
+        "squadraSerieA": "FI",
+        "valore": 40,
+        "contratto": 3,
+        "ruoli": "T AD"
+      },
+      {
+        "nome": "KARLSTROM",
         "squadraSerieA": "UD",
-        "valore": 4,
+        "valore": 7,
         "contratto": 3,
-        "ruoli": "PC SP AD"
+        "ruoli": "M CC T"
       },
       {
-        "nome": "KULENOVIC",
+        "nome": "ODGAARD",
+        "squadraSerieA": "BO",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "T AD"
+      },
+      {
+        "nome": "CONCEICAO",
+        "squadraSerieA": "JU",
+        "valore": 25,
+        "contratto": 3,
+        "ruoli": "AS AD SP"
+      },
+      {
+        "nome": "UNAI GOMEZ",
+        "squadraSerieA": "UD",
+        "valore": 7,
+        "contratto": 3,
+        "ruoli": "CC T"
+      },
+      {
+        "nome": "CAMBIAGHI",
+        "squadraSerieA": "BO",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "AS AD SP"
+      },
+      {
+        "nome": "VITINHA O.",
+        "squadraSerieA": "GE",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "AS SP PC"
+      },
+      {
+        "nome": "ZEBALLOS",
+        "squadraSerieA": "MO",
+        "valore": 6,
+        "contratto": 3,
+        "ruoli": "A PC"
+      },
+      {
+        "nome": "ADAMS C.",
         "squadraSerieA": "TO",
-        "valore": 4,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "AZON",
-        "squadraSerieA": "CO",
-        "valore": 1,
-        "contratto": 3,
-        "ruoli": "PC"
-      },
-      {
-        "nome": "LAURIENTÈ",
-        "squadraSerieA": "SA",
-        "valore": 15,
+        "valore": 10,
         "contratto": 3,
         "ruoli": "AS AD PC"
+      },
+      {
+        "nome": "RAMOS G.",
+        "squadraSerieA": "MI",
+        "valore": 200,
+        "contratto": 3,
+        "ruoli": "PC"
+      },
+      {
+        "nome": "DOVBYK",
+        "squadraSerieA": "BO",
+        "valore": 15,
+        "contratto": 3,
+        "ruoli": "PC"
+      },
+      {
+        "nome": "PICCOLI",
+        "squadraSerieA": "BO",
+        "valore": 8,
+        "contratto": 3,
+        "ruoli": "PC"
       }
     ]
   }

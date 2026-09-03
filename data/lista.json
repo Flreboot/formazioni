@@ -1,0 +1,3747 @@
+[
+  {
+    "nome": "CARNESECCHI",
+    "squadra": "AT",
+    "valore": 17,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SPORTIELLO",
+    "squadra": "AT",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SKORUPSKI",
+    "squadra": "BO",
+    "valore": 10,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "HAPPONEN",
+    "squadra": "BO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PESSINA MAS.",
+    "squadra": "BO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "CAPRILE",
+    "squadra": "CA",
+    "valore": 10,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "RADUNOVIC",
+    "squadra": "CA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SHERRI",
+    "squadra": "CA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "BUTEZ",
+    "squadra": "CO",
+    "valore": 15,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SANCHEZ RO.",
+    "squadra": "CO",
+    "valore": 8,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "VIGORITO",
+    "squadra": "CO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "DE GEA",
+    "squadra": "FI",
+    "valore": 11,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "CHRISTENSEN O.",
+    "squadra": "FI",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "LEZZERINI",
+    "squadra": "FI",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PALMISANI",
+    "squadra": "FR",
+    "valore": 5,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "DESPLANCHES",
+    "squadra": "FR",
+    "valore": 2,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "LOLIC",
+    "squadra": "FR",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PISSERI",
+    "squadra": "FR",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "BIJLOW",
+    "squadra": "GE",
+    "valore": 8,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SOMMARIVA",
+    "squadra": "GE",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "STOLZ",
+    "squadra": "GE",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MARTINEZ JO.",
+    "squadra": "IN",
+    "valore": 17,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PROVEDEL",
+    "squadra": "IN",
+    "valore": 2,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "DI GENNARO",
+    "squadra": "IN",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "VICARIO",
+    "squadra": "JU",
+    "valore": 17,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "GRABARA",
+    "squadra": "JU",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PINSOGLIO",
+    "squadra": "JU",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MANDAS",
+    "squadra": "LA",
+    "valore": 10,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MOTTA",
+    "squadra": "LA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "RENZETTI",
+    "squadra": "LA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "FALCONE",
+    "squadra": "LE",
+    "valore": 8,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "BLEVE",
+    "squadra": "LE",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PENEV",
+    "squadra": "LE",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MAIGNAN",
+    "squadra": "MI",
+    "valore": 15,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "TERRACCIANO",
+    "squadra": "MI",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "TORRIANI",
+    "squadra": "MI",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "THIAM",
+    "squadra": "MO",
+    "valore": 4,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "STRAJNAR",
+    "squadra": "MO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "TORNQVIST",
+    "squadra": "MO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MERET",
+    "squadra": "NA",
+    "valore": 11,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MILINKOVIC-SAVIC V.",
+    "squadra": "NA",
+    "valore": 5,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "CONTINI",
+    "squadra": "NA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "DAFFARA",
+    "squadra": "PA",
+    "valore": 6,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "CORVI",
+    "squadra": "PA",
+    "valore": 2,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "GHIDOTTI",
+    "squadra": "PA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SVILAR",
+    "squadra": "RO",
+    "valore": 19,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "DE MARZI",
+    "squadra": "RO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "GOLLINI",
+    "squadra": "RO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MURIC",
+    "squadra": "SA",
+    "valore": 7,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "RUSSO A.",
+    "squadra": "SA",
+    "valore": 1,
+    "ruoli": "PC",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SATALINO",
+    "squadra": "SA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "TURATI",
+    "squadra": "SA",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PERRI",
+    "squadra": "TO",
+    "valore": 9,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MASCARDI",
+    "squadra": "TO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PALEARI",
+    "squadra": "TO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SIVIERO",
+    "squadra": "TO",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "OKOYE",
+    "squadra": "UD",
+    "valore": 9,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MROZEK",
+    "squadra": "UD",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PADELLI",
+    "squadra": "UD",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "PIANA",
+    "squadra": "UD",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "STANKOVIC F.",
+    "squadra": "VE",
+    "valore": 6,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "GRANDI",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "MONTIPÒ",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "POZZI",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "POR",
+    "macrofascia": "P"
+  },
+  {
+    "nome": "SCALVINI",
+    "squadra": "AT",
+    "valore": 10,
+    "ruoli": "DC M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ZAPPACOSTA",
+    "squadra": "AT",
+    "valore": 8,
+    "ruoli": "DD CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HIEN",
+    "squadra": "AT",
+    "valore": 7,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BELLANOVA",
+    "squadra": "AT",
+    "valore": 6,
+    "ruoli": "DD CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BERNASCONI",
+    "squadra": "AT",
+    "valore": 6,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KOLASINAC",
+    "squadra": "AT",
+    "valore": 6,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KRISTENSEN T.",
+    "squadra": "AT",
+    "valore": 6,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KOSSOUNOU",
+    "squadra": "AT",
+    "valore": 4,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MIRANDA J.",
+    "squadra": "BO",
+    "valore": 8,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "THEATE",
+    "squadra": "BO",
+    "valore": 8,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ZORTEA",
+    "squadra": "BO",
+    "valore": 7,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HEGGEM",
+    "squadra": "BO",
+    "valore": 6,
+    "ruoli": "DC DE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HOLM",
+    "squadra": "BO",
+    "valore": 6,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VITIK",
+    "squadra": "BO",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CASALE",
+    "squadra": "BO",
+    "valore": 3,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HELLAND",
+    "squadra": "BO",
+    "valore": 3,
+    "ruoli": "DC DD M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ALHASSANE",
+    "squadra": "BO",
+    "valore": 2,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DE SILVESTRI",
+    "squadra": "BO",
+    "valore": 1,
+    "ruoli": "DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MINA",
+    "squadra": "CA",
+    "valore": 7,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "OBERT",
+    "squadra": "CA",
+    "valore": 7,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SUGAWARA",
+    "squadra": "CA",
+    "valore": 6,
+    "ruoli": "DD DC CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KOFLER",
+    "squadra": "CA",
+    "valore": 5,
+    "ruoli": "DC DD CC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ZÈ PEDRO",
+    "squadra": "CA",
+    "valore": 5,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "RODRIGUEZ JU.",
+    "squadra": "CA",
+    "valore": 4,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "IDRISSI R.",
+    "squadra": "CA",
+    "valore": 3,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "AURELIO",
+    "squadra": "CA",
+    "valore": 2,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CHALOBAH T.",
+    "squadra": "CO",
+    "valore": 10,
+    "ruoli": "DC DD M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "RAMON",
+    "squadra": "CO",
+    "valore": 10,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "COUTO",
+    "squadra": "CO",
+    "valore": 8,
+    "ruoli": "DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KAIKI",
+    "squadra": "CO",
+    "valore": 6,
+    "ruoli": "DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VALLE",
+    "squadra": "CO",
+    "valore": 6,
+    "ruoli": "DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KEMPF",
+    "squadra": "CO",
+    "valore": 5,
+    "ruoli": "DC M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SMOLCIC I.",
+    "squadra": "CO",
+    "valore": 4,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KAMBWALA",
+    "squadra": "CO",
+    "valore": 3,
+    "ruoli": "DS DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GOLDANIGA",
+    "squadra": "CO",
+    "valore": 1,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DODÒ",
+    "squadra": "FI",
+    "valore": 9,
+    "ruoli": "DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DRAGUSIN",
+    "squadra": "FI",
+    "valore": 7,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "JIMENEZ A.",
+    "squadra": "FI",
+    "valore": 7,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VIERY",
+    "squadra": "FI",
+    "valore": 6,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VALDEPENAS",
+    "squadra": "FI",
+    "valore": 5,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PARISI",
+    "squadra": "FI",
+    "valore": 4,
+    "ruoli": "DE CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PONGRACIC",
+    "squadra": "FI",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "JOAO MARIO",
+    "squadra": "FI",
+    "valore": 3,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "RANIERI L.",
+    "squadra": "FI",
+    "valore": 3,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BRACAGLIA",
+    "squadra": "FR",
+    "valore": 7,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MONTERISI",
+    "squadra": "FR",
+    "valore": 6,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "OYONO A.",
+    "squadra": "FR",
+    "valore": 6,
+    "ruoli": "DC DE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CALVANI",
+    "squadra": "FR",
+    "valore": 5,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CITTADINI",
+    "squadra": "FR",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "TERZIC",
+    "squadra": "FR",
+    "valore": 4,
+    "ruoli": "DE CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "AKPOGUMA",
+    "squadra": "FR",
+    "valore": 3,
+    "ruoli": "DC DE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "TCHATO",
+    "squadra": "FR",
+    "valore": 3,
+    "ruoli": "D",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "AMEY",
+    "squadra": "FR",
+    "valore": 1,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "OMAR FAYED",
+    "squadra": "FR",
+    "valore": 1,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "OSTIGARD",
+    "squadra": "GE",
+    "valore": 11,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VASQUEZ",
+    "squadra": "GE",
+    "valore": 9,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "NORTON-CUFFY",
+    "squadra": "GE",
+    "valore": 8,
+    "ruoli": "DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MARCANDALLI",
+    "squadra": "GE",
+    "valore": 6,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MITAJ",
+    "squadra": "GE",
+    "valore": 4,
+    "ruoli": "DS M CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DRAMEH",
+    "squadra": "GE",
+    "valore": 3,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "OTOA",
+    "squadra": "GE",
+    "valore": 2,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PUCZKA",
+    "squadra": "GE",
+    "valore": 2,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SABELLI",
+    "squadra": "GE",
+    "valore": 2,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DIMARCO",
+    "squadra": "IN",
+    "valore": 31,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "AKANJI",
+    "squadra": "IN",
+    "valore": 15,
+    "ruoli": "DC DE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BASTONI",
+    "squadra": "IN",
+    "valore": 14,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BISSECK",
+    "squadra": "IN",
+    "valore": 12,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "STONES",
+    "squadra": "IN",
+    "valore": 12,
+    "ruoli": "DC DD M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SPENCE",
+    "squadra": "IN",
+    "valore": 11,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CARLOS AUGUSTO",
+    "squadra": "IN",
+    "valore": 6,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PAVARD",
+    "squadra": "IN",
+    "valore": 6,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BREMER",
+    "squadra": "JU",
+    "valore": 16,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KALULU",
+    "squadra": "JU",
+    "valore": 14,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CAMBIASO",
+    "squadra": "JU",
+    "valore": 8,
+    "ruoli": "DE CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CELIK",
+    "squadra": "JU",
+    "valore": 8,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "LUCUMÌ",
+    "squadra": "JU",
+    "valore": 7,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KELLY L.",
+    "squadra": "JU",
+    "valore": 5,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GATTI",
+    "squadra": "JU",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CABAL",
+    "squadra": "JU",
+    "valore": 1,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "RUGANI",
+    "squadra": "JU",
+    "valore": 1,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DOEKHI",
+    "squadra": "LA",
+    "valore": 8,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SUTALO J.",
+    "squadra": "LA",
+    "valore": 7,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "TAVARES N.",
+    "squadra": "LA",
+    "valore": 7,
+    "ruoli": "DE CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MARUSIC",
+    "squadra": "LA",
+    "valore": 6,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PEDRAZA",
+    "squadra": "LA",
+    "valore": 6,
+    "ruoli": "DS AS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ROMAGNOLI",
+    "squadra": "LA",
+    "valore": 6,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "FLORIANI MUSSOLINI",
+    "squadra": "LA",
+    "valore": 4,
+    "ruoli": "DD CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PROVSTGAARD",
+    "squadra": "LA",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "LAZZARI",
+    "squadra": "LA",
+    "valore": 2,
+    "ruoli": "DD CD AD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PELLEGRINI LU.",
+    "squadra": "LA",
+    "valore": 2,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PATRIC",
+    "squadra": "LA",
+    "valore": 1,
+    "ruoli": "DC DD M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "TIAGO GABRIEL",
+    "squadra": "LE",
+    "valore": 8,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GALLO",
+    "squadra": "LE",
+    "valore": 6,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VEIGA D.",
+    "squadra": "LE",
+    "valore": 6,
+    "ruoli": "DD M CC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GASPAR K.",
+    "squadra": "LE",
+    "valore": 5,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SIEBERT",
+    "squadra": "LE",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "JEAN",
+    "squadra": "LE",
+    "valore": 2,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "NDABA",
+    "squadra": "LE",
+    "valore": 2,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DEMBELÈ A.",
+    "squadra": "LE",
+    "valore": 1,
+    "ruoli": "DD DC CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PAVLOVIC",
+    "squadra": "MI",
+    "valore": 14,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GILA",
+    "squadra": "MI",
+    "valore": 13,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BARTESAGHI",
+    "squadra": "MI",
+    "valore": 8,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GABBIA",
+    "squadra": "MI",
+    "valore": 7,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "TOMORI",
+    "squadra": "MI",
+    "valore": 6,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DE WINTER",
+    "squadra": "MI",
+    "valore": 5,
+    "ruoli": "DC DD M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ESTUPINAN",
+    "squadra": "MI",
+    "valore": 3,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DIAWARA S.",
+    "squadra": "MI",
+    "valore": 2,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "TERRACCIANO F.",
+    "squadra": "MI",
+    "valore": 2,
+    "ruoli": "D",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MANGAS",
+    "squadra": "MO",
+    "valore": 7,
+    "ruoli": "DS CS AS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BIRINDELLI",
+    "squadra": "MO",
+    "valore": 4,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CARBONI A.",
+    "squadra": "MO",
+    "valore": 3,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KOUADIO",
+    "squadra": "MO",
+    "valore": 3,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "LUCCHESI",
+    "squadra": "MO",
+    "valore": 3,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BAKOUNE",
+    "squadra": "MO",
+    "valore": 2,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GOGLICHIDZE",
+    "squadra": "MO",
+    "valore": 2,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ANTOV",
+    "squadra": "MO",
+    "valore": 1,
+    "ruoli": "DC DD M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MAYE",
+    "squadra": "MO",
+    "valore": 1,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ZIOLKOWSKI",
+    "squadra": "MO",
+    "valore": 1,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "RRAHMANI",
+    "squadra": "NA",
+    "valore": 15,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DI LORENZO",
+    "squadra": "NA",
+    "valore": 12,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SPINAZZOLA",
+    "squadra": "NA",
+    "valore": 8,
+    "ruoli": "DS CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BADIASHILE",
+    "squadra": "NA",
+    "valore": 7,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BEUKEMA",
+    "squadra": "NA",
+    "valore": 6,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BUONGIORNO",
+    "squadra": "NA",
+    "valore": 6,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "OLIVERA",
+    "squadra": "NA",
+    "valore": 5,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "FAVASULI",
+    "squadra": "NA",
+    "valore": 4,
+    "ruoli": "DS CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MARIN R.",
+    "squadra": "NA",
+    "valore": 2,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MARIANUCCI",
+    "squadra": "NA",
+    "valore": 1,
+    "ruoli": "DC M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DELPRATO",
+    "squadra": "PA",
+    "valore": 8,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DIEGO CARLOS",
+    "squadra": "PA",
+    "valore": 8,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VALERI",
+    "squadra": "PA",
+    "valore": 8,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VALENTI",
+    "squadra": "PA",
+    "valore": 4,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BRITSCHGI",
+    "squadra": "PA",
+    "valore": 3,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "TROILO",
+    "squadra": "PA",
+    "valore": 3,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DROBNIC",
+    "squadra": "PA",
+    "valore": 2,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "NDIAYE",
+    "squadra": "PA",
+    "valore": 2,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CARBONI F.",
+    "squadra": "PA",
+    "valore": 1,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MOLINA N.",
+    "squadra": "RO",
+    "valore": 18,
+    "ruoli": "DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "WESLEY",
+    "squadra": "RO",
+    "valore": 18,
+    "ruoli": "DD CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MANCINI",
+    "squadra": "RO",
+    "valore": 16,
+    "ruoli": "DC M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "N'DICKA",
+    "squadra": "RO",
+    "valore": 13,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HERMOSO",
+    "squadra": "RO",
+    "valore": 11,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KOULIERAKIS",
+    "squadra": "RO",
+    "valore": 8,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BALERDI",
+    "squadra": "RO",
+    "valore": 6,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GHILARDI",
+    "squadra": "RO",
+    "valore": 5,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "RENSCH",
+    "squadra": "RO",
+    "valore": 4,
+    "ruoli": "DC DE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "LULLI",
+    "squadra": "RO",
+    "valore": 2,
+    "ruoli": "DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "IDZES",
+    "squadra": "SA",
+    "valore": 7,
+    "ruoli": "DC M CC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CALETA-CAR",
+    "squadra": "SA",
+    "valore": 6,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "LEYSEN F.",
+    "squadra": "SA",
+    "valore": 6,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "OBRADOR",
+    "squadra": "SA",
+    "valore": 6,
+    "ruoli": "DC CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "DOIG",
+    "squadra": "SA",
+    "valore": 5,
+    "ruoli": "DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "WALUKIEWICZ",
+    "squadra": "SA",
+    "valore": 4,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CANDÈ",
+    "squadra": "SA",
+    "valore": 3,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ODENTHAL",
+    "squadra": "SA",
+    "valore": 3,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CINQUEGRANO",
+    "squadra": "SA",
+    "valore": 2,
+    "ruoli": "DD CD AD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VAN DER BREMPT",
+    "squadra": "SA",
+    "valore": 2,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PIERAGNOLO",
+    "squadra": "SA",
+    "valore": 1,
+    "ruoli": "DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "COMUZZO",
+    "squadra": "TO",
+    "valore": 8,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BELGHALI",
+    "squadra": "TO",
+    "valore": 7,
+    "ruoli": "DD CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "COCO",
+    "squadra": "TO",
+    "valore": 7,
+    "ruoli": "DC DD CC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ISMAJLI",
+    "squadra": "TO",
+    "valore": 7,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "FORTINI",
+    "squadra": "TO",
+    "valore": 6,
+    "ruoli": "DE CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PATTERSON",
+    "squadra": "TO",
+    "valore": 5,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "COMERT",
+    "squadra": "TO",
+    "valore": 4,
+    "ruoli": "DC M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BIRAGHI",
+    "squadra": "TO",
+    "valore": 2,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SOLET",
+    "squadra": "UD",
+    "valore": 13,
+    "ruoli": "DC M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KAMARA H.",
+    "squadra": "UD",
+    "valore": 9,
+    "ruoli": "DE CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "VOJVODA",
+    "squadra": "UD",
+    "valore": 9,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ARIZALA",
+    "squadra": "UD",
+    "valore": 4,
+    "ruoli": "DS CS AS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BERTOLA",
+    "squadra": "UD",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "KABASELE",
+    "squadra": "UD",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ZANOLI",
+    "squadra": "UD",
+    "valore": 4,
+    "ruoli": "DC DD CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "EBOSSE",
+    "squadra": "UD",
+    "valore": 3,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "PALMA",
+    "squadra": "UD",
+    "valore": 3,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "ABANKWAH",
+    "squadra": "UD",
+    "valore": 2,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "BELLA-KOTCHAP",
+    "squadra": "VE",
+    "valore": 5,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "CORREIA T.",
+    "squadra": "VE",
+    "valore": 5,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HAPS",
+    "squadra": "VE",
+    "valore": 5,
+    "ruoli": "DS CS AS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HAINAUT",
+    "squadra": "VE",
+    "valore": 4,
+    "ruoli": "DC DD CC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "JUAN JESUS",
+    "squadra": "VE",
+    "valore": 4,
+    "ruoli": "DC DS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MORENO M.",
+    "squadra": "VE",
+    "valore": 4,
+    "ruoli": "DC",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "FRANJIC",
+    "squadra": "VE",
+    "valore": 3,
+    "ruoli": "DC DS M",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "HALHAL",
+    "squadra": "VE",
+    "valore": 3,
+    "ruoli": "D",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SCHINGTIENNE",
+    "squadra": "VE",
+    "valore": 3,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SVERKO",
+    "squadra": "VE",
+    "valore": 3,
+    "ruoli": "DC DS CS",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SAGRADO",
+    "squadra": "VE",
+    "valore": 2,
+    "ruoli": "DE CD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "GOMES",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "DC DD",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "MAZZOCCHI",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "DD CE",
+    "macrofascia": "D"
+  },
+  {
+    "nome": "SAMARDZIC",
+    "squadra": "AT",
+    "valore": 13,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "EDERSON D.S.",
+    "squadra": "AT",
+    "valore": 12,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KESSIÈ",
+    "squadra": "AT",
+    "valore": 12,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ROWE",
+    "squadra": "AT",
+    "valore": 10,
+    "ruoli": "T A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PASALIC",
+    "squadra": "AT",
+    "valore": 8,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ELMAS",
+    "squadra": "AT",
+    "valore": 7,
+    "ruoli": "CC T AS",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GAETANO",
+    "squadra": "AT",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZALEWSKI",
+    "squadra": "AT",
+    "valore": 7,
+    "ruoli": "CE T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ORSOLINI",
+    "squadra": "BO",
+    "valore": 25,
+    "ruoli": "AS AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BERNARDESCHI",
+    "squadra": "BO",
+    "valore": 10,
+    "ruoli": "T AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CAMBIAGHI",
+    "squadra": "BO",
+    "valore": 8,
+    "ruoli": "AS AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MBANGULA",
+    "squadra": "BO",
+    "valore": 8,
+    "ruoli": "A SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ODGAARD",
+    "squadra": "BO",
+    "valore": 8,
+    "ruoli": "T AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FERGUSON",
+    "squadra": "BO",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "POBEGA",
+    "squadra": "BO",
+    "valore": 6,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "AMONDARAIN",
+    "squadra": "BO",
+    "valore": 5,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MORO N.",
+    "squadra": "BO",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "EL AZZOUZI O.",
+    "squadra": "BO",
+    "valore": 2,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ADOPO",
+    "squadra": "CA",
+    "valore": 7,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ROMANO",
+    "squadra": "CA",
+    "valore": 7,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FAZZINI",
+    "squadra": "CA",
+    "valore": 6,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "WINKS",
+    "squadra": "CA",
+    "valore": 6,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FELICI",
+    "squadra": "CA",
+    "valore": 5,
+    "ruoli": "CS AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MASSOLIN",
+    "squadra": "CA",
+    "valore": 4,
+    "ruoli": "CC T AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DEIOLA",
+    "squadra": "CA",
+    "valore": 3,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GAGLIARDINI",
+    "squadra": "CA",
+    "valore": 3,
+    "ruoli": "M CC DC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FADERA",
+    "squadra": "CA",
+    "valore": 2,
+    "ruoli": "T AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CIERVO",
+    "squadra": "CA",
+    "valore": 1,
+    "ruoli": "CD A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LITETA",
+    "squadra": "CA",
+    "valore": 1,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PAZ N.",
+    "squadra": "CO",
+    "valore": 29,
+    "ruoli": "T AD PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BATURINA",
+    "squadra": "CO",
+    "valore": 20,
+    "ruoli": "CC T AS",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DA CUNHA",
+    "squadra": "CO",
+    "valore": 18,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "RODRIGUEZ JE.",
+    "squadra": "CO",
+    "valore": 11,
+    "ruoli": "AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PERRONE",
+    "squadra": "CO",
+    "valore": 10,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CAQUERET",
+    "squadra": "CO",
+    "valore": 6,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LIBERALI",
+    "squadra": "CO",
+    "valore": 6,
+    "ruoli": "T AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MILLA",
+    "squadra": "CO",
+    "valore": 6,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ADDAI",
+    "squadra": "CO",
+    "valore": 4,
+    "ruoli": "AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "RICCI S.",
+    "squadra": "CO",
+    "valore": 4,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LAHDO",
+    "squadra": "CO",
+    "valore": 1,
+    "ruoli": "CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ATTA",
+    "squadra": "FI",
+    "valore": 15,
+    "ruoli": "CC CD T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GONCALVES P.",
+    "squadra": "FI",
+    "valore": 12,
+    "ruoli": "C A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MASTANTUONO",
+    "squadra": "FI",
+    "valore": 11,
+    "ruoli": "T AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FAGIOLI",
+    "squadra": "FI",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "NDOUR",
+    "squadra": "FI",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "OULAI",
+    "squadra": "FI",
+    "valore": 6,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "NJIE",
+    "squadra": "FI",
+    "valore": 4,
+    "ruoli": "AS SP PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BRESCIANINI",
+    "squadra": "FI",
+    "valore": 3,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CALÒ",
+    "squadra": "FR",
+    "valore": 8,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SCHMID",
+    "squadra": "FR",
+    "valore": 8,
+    "ruoli": "CC T CS",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZERBIN",
+    "squadra": "FR",
+    "valore": 6,
+    "ruoli": "CD AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CICHELLA",
+    "squadra": "FR",
+    "valore": 4,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FINI",
+    "squadra": "FR",
+    "valore": 4,
+    "ruoli": "AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GRILLITSCH",
+    "squadra": "FR",
+    "valore": 4,
+    "ruoli": "M CC DC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KOUTSOUPIAS",
+    "squadra": "FR",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GELLI F.",
+    "squadra": "FR",
+    "valore": 3,
+    "ruoli": "DC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MASINI",
+    "squadra": "FR",
+    "valore": 3,
+    "ruoli": "M CC CD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "HASA",
+    "squadra": "FR",
+    "valore": 2,
+    "ruoli": "CC T AS",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "EL AZZOUZI A.",
+    "squadra": "FR",
+    "valore": 1,
+    "ruoli": "DC M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KONE B.",
+    "squadra": "FR",
+    "valore": 1,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BALDANZI",
+    "squadra": "GE",
+    "valore": 11,
+    "ruoli": "T AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FRENDRUP",
+    "squadra": "GE",
+    "valore": 7,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SOW",
+    "squadra": "GE",
+    "valore": 7,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ELLERTSSON",
+    "squadra": "GE",
+    "valore": 6,
+    "ruoli": "CC CE",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MEICHTRY",
+    "squadra": "GE",
+    "valore": 5,
+    "ruoli": "CC CE",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "AMORIM",
+    "squadra": "GE",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MESSIAS",
+    "squadra": "GE",
+    "valore": 4,
+    "ruoli": "CC AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "TRAORÈ HJ.",
+    "squadra": "GE",
+    "valore": 4,
+    "ruoli": "CC T AS",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "VENTURINO",
+    "squadra": "GE",
+    "valore": 2,
+    "ruoli": "CD AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CALHANOGLU",
+    "squadra": "IN",
+    "valore": 28,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BARELLA",
+    "squadra": "IN",
+    "valore": 18,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "JONES C.",
+    "squadra": "IN",
+    "valore": 12,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZIELINSKI",
+    "squadra": "IN",
+    "valore": 12,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DIOUF",
+    "squadra": "IN",
+    "valore": 9,
+    "ruoli": "CC CD T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SUCIC P.",
+    "squadra": "IN",
+    "valore": 9,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LUIS HENRIQUE",
+    "squadra": "IN",
+    "valore": 5,
+    "ruoli": "CE AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MKHITARYAN",
+    "squadra": "IN",
+    "valore": 4,
+    "ruoli": "CC T SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "STANKOVIC A.",
+    "squadra": "IN",
+    "valore": 3,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MCKENNIE",
+    "squadra": "JU",
+    "valore": 17,
+    "ruoli": "CC CD T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CONCEICAO",
+    "squadra": "JU",
+    "valore": 13,
+    "ruoli": "AS AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GONZALEZ N.",
+    "squadra": "JU",
+    "valore": 12,
+    "ruoli": "A PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ALAJBEGOVIC",
+    "squadra": "JU",
+    "valore": 11,
+    "ruoli": "T A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LOCATELLI",
+    "squadra": "JU",
+    "valore": 9,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "THURAM K.",
+    "squadra": "JU",
+    "valore": 9,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KOOPMEINERS",
+    "squadra": "JU",
+    "valore": 7,
+    "ruoli": "DC M T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SARR P.",
+    "squadra": "JU",
+    "valore": 7,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZHEGROVA",
+    "squadra": "JU",
+    "valore": 6,
+    "ruoli": "CD AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DOUGLAS LUIZ",
+    "squadra": "JU",
+    "valore": 4,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZACCAGNI",
+    "squadra": "LA",
+    "valore": 16,
+    "ruoli": "T AS SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "TAYLOR K.",
+    "squadra": "LA",
+    "valore": 13,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GUDMUNDSSON A.",
+    "squadra": "LA",
+    "valore": 12,
+    "ruoli": "T AS SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FRATTESI",
+    "squadra": "LA",
+    "valore": 10,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CANCELLIERI",
+    "squadra": "LA",
+    "valore": 9,
+    "ruoli": "AS AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ISAKSEN",
+    "squadra": "LA",
+    "valore": 9,
+    "ruoli": "AS AD PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ROVELLA",
+    "squadra": "LA",
+    "valore": 7,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DELE-BASHIRU",
+    "squadra": "LA",
+    "valore": 5,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CATALDI",
+    "squadra": "LA",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BELAHYANE",
+    "squadra": "LA",
+    "valore": 2,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PRZYBOREK",
+    "squadra": "LA",
+    "valore": 1,
+    "ruoli": "T AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "COULIBALY L.",
+    "squadra": "LE",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MONTEIRO J.",
+    "squadra": "LE",
+    "valore": 7,
+    "ruoli": "CS AS PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PIEROTTI",
+    "squadra": "LE",
+    "valore": 6,
+    "ruoli": "T AD PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BERISHA M.",
+    "squadra": "LE",
+    "valore": 4,
+    "ruoli": "CC T SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GANDELMAN",
+    "squadra": "LE",
+    "valore": 4,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "NGOM",
+    "squadra": "LE",
+    "valore": 4,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GORTER",
+    "squadra": "LE",
+    "valore": 3,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MALEH",
+    "squadra": "LE",
+    "valore": 3,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FOFANA SA.",
+    "squadra": "LE",
+    "valore": 1,
+    "ruoli": "DC M",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ILIC",
+    "squadra": "LE",
+    "valore": 1,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KABA",
+    "squadra": "LE",
+    "valore": 1,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LAERKE",
+    "squadra": "LE",
+    "valore": 1,
+    "ruoli": "CD A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PULISIC",
+    "squadra": "MI",
+    "valore": 24,
+    "ruoli": "T AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "RABIOT",
+    "squadra": "MI",
+    "valore": 23,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MODRIC",
+    "squadra": "MI",
+    "valore": 12,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MOREIRA",
+    "squadra": "MI",
+    "valore": 11,
+    "ruoli": "CS A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SAELEMAEKERS",
+    "squadra": "MI",
+    "valore": 11,
+    "ruoli": "CD AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CHUKWUEZE",
+    "squadra": "MI",
+    "valore": 8,
+    "ruoli": "AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "HUTCHINSON",
+    "squadra": "MI",
+    "valore": 8,
+    "ruoli": "A T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CISSÈ A.",
+    "squadra": "MI",
+    "valore": 5,
+    "ruoli": "CC T SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "JASHARI",
+    "squadra": "MI",
+    "valore": 5,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FOFANA Y.",
+    "squadra": "MI",
+    "valore": 4,
+    "ruoli": "M CC CD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LOFTUS-CHEEK",
+    "squadra": "MI",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MUSAH",
+    "squadra": "MI",
+    "valore": 3,
+    "ruoli": "CC CD T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "COMOTTO",
+    "squadra": "MI",
+    "valore": 1,
+    "ruoli": "CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "COLPANI",
+    "squadra": "MO",
+    "valore": 9,
+    "ruoli": "CC T AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "AKINSANMIRO",
+    "squadra": "MO",
+    "valore": 7,
+    "ruoli": "CC CD T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PESSINA",
+    "squadra": "MO",
+    "valore": 6,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "TOURÈ I.",
+    "squadra": "MO",
+    "valore": 6,
+    "ruoli": "M CC CD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FOLORUNSHO",
+    "squadra": "MO",
+    "valore": 4,
+    "ruoli": "CC CS T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "COLOMBO L.",
+    "squadra": "MO",
+    "valore": 3,
+    "ruoli": "DC M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CIURRIA",
+    "squadra": "MO",
+    "valore": 2,
+    "ruoli": "CC CD T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FOE ONDOA",
+    "squadra": "MO",
+    "valore": 2,
+    "ruoli": "CC T AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FORSON O.",
+    "squadra": "MO",
+    "valore": 2,
+    "ruoli": "T A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MOUT",
+    "squadra": "MO",
+    "valore": 1,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MCTOMINAY",
+    "squadra": "NA",
+    "valore": 27,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DE BRUYNE",
+    "squadra": "NA",
+    "valore": 17,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "VERGARA",
+    "squadra": "NA",
+    "valore": 10,
+    "ruoli": "CD T AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZAMBO ANGUISSA",
+    "squadra": "NA",
+    "valore": 10,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "POLITANO",
+    "squadra": "NA",
+    "valore": 9,
+    "ruoli": "CD AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LOBOTKA",
+    "squadra": "NA",
+    "valore": 8,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GILMOUR",
+    "squadra": "NA",
+    "valore": 3,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BERNABÈ",
+    "squadra": "PA",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "NICOLUSSI CAVIGLIA",
+    "squadra": "PA",
+    "valore": 6,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KEITA M.",
+    "squadra": "PA",
+    "valore": 5,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ALMQVIST",
+    "squadra": "PA",
+    "valore": 4,
+    "ruoli": "AS AD PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FABBIAN",
+    "squadra": "PA",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DIALLO O.",
+    "squadra": "PA",
+    "valore": 3,
+    "ruoli": "AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ORDONEZ C.",
+    "squadra": "PA",
+    "valore": 3,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CREMASCHI",
+    "squadra": "PA",
+    "valore": 2,
+    "ruoli": "CC CD T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MORA",
+    "squadra": "RO",
+    "valore": 20,
+    "ruoli": "T A",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KONÈ M.",
+    "squadra": "RO",
+    "valore": 10,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CRISTANTE",
+    "squadra": "RO",
+    "valore": 9,
+    "ruoli": "DC M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PELLEGRINI LO.",
+    "squadra": "RO",
+    "valore": 9,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PISILLI",
+    "squadra": "RO",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DE ROON",
+    "squadra": "RO",
+    "valore": 4,
+    "ruoli": "DC M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "THORSTVEDT",
+    "squadra": "SA",
+    "valore": 10,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "VOLPATO",
+    "squadra": "SA",
+    "valore": 9,
+    "ruoli": "CD T AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KONÈ I.",
+    "squadra": "SA",
+    "valore": 8,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ADZIC",
+    "squadra": "SA",
+    "valore": 6,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BAKOLA",
+    "squadra": "SA",
+    "valore": 6,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MATIC",
+    "squadra": "SA",
+    "valore": 6,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DOMINGUEZ B.",
+    "squadra": "SA",
+    "valore": 4,
+    "ruoli": "T AS AD",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SULEMANA I.",
+    "squadra": "SA",
+    "valore": 3,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BOLOCA",
+    "squadra": "SA",
+    "valore": 2,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "LIPANI",
+    "squadra": "SA",
+    "valore": 2,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "VLASIC",
+    "squadra": "TO",
+    "valore": 13,
+    "ruoli": "CC T SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CASADEI",
+    "squadra": "TO",
+    "valore": 9,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MANDRAGORA",
+    "squadra": "TO",
+    "valore": 8,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BRAGANCA",
+    "squadra": "TO",
+    "valore": 6,
+    "ruoli": "CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CACCIAMANI",
+    "squadra": "TO",
+    "valore": 6,
+    "ruoli": "CS AS",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ORISTANIO",
+    "squadra": "TO",
+    "valore": 6,
+    "ruoli": "T SP PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FITZ-JIM",
+    "squadra": "TO",
+    "valore": 5,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "GINEITIS",
+    "squadra": "TO",
+    "valore": 5,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ILKHAN",
+    "squadra": "TO",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ABOUKHLAL",
+    "squadra": "TO",
+    "valore": 3,
+    "ruoli": "AS AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ANJORIN",
+    "squadra": "TO",
+    "valore": 1,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZANIOLO",
+    "squadra": "UD",
+    "valore": 18,
+    "ruoli": "T AD SP",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "EKKELENKAMP",
+    "squadra": "UD",
+    "valore": 12,
+    "ruoli": "CC CS T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "KARLSTROM",
+    "squadra": "UD",
+    "valore": 7,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "UNAI GOMEZ",
+    "squadra": "UD",
+    "valore": 7,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PIOTROWSKI",
+    "squadra": "UD",
+    "valore": 6,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "MILLER L.",
+    "squadra": "UD",
+    "valore": 4,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "CHAKVETADZE",
+    "squadra": "UD",
+    "valore": 2,
+    "ruoli": "CC T AS",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "JOVANOVIC",
+    "squadra": "UD",
+    "valore": 2,
+    "ruoli": "A T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "ZARRAGA",
+    "squadra": "UD",
+    "valore": 2,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BASIC",
+    "squadra": "VE",
+    "valore": 6,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "BUSIO",
+    "squadra": "VE",
+    "valore": 5,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "PEREZ K.",
+    "squadra": "VE",
+    "valore": 5,
+    "ruoli": "CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SOHM",
+    "squadra": "VE",
+    "valore": 5,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "FERNANDEZ T.",
+    "squadra": "VE",
+    "valore": 3,
+    "ruoli": "T AD PC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "HELGASON",
+    "squadra": "VE",
+    "valore": 3,
+    "ruoli": "M CC T",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DUNCAN",
+    "squadra": "VE",
+    "valore": 2,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "DAGASSO",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "M CC",
+    "macrofascia": "C"
+  },
+  {
+    "nome": "SCAMACCA",
+    "squadra": "AT",
+    "valore": 19,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "KRSTOVIC",
+    "squadra": "AT",
+    "valore": 18,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "DE KETELAERE",
+    "squadra": "AT",
+    "valore": 17,
+    "ruoli": "T AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "RASPADORI",
+    "squadra": "AT",
+    "valore": 14,
+    "ruoli": "AS SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "SULEMANA K.",
+    "squadra": "AT",
+    "valore": 6,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "DOVBYK",
+    "squadra": "BO",
+    "valore": 15,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "PICCOLI",
+    "squadra": "BO",
+    "valore": 8,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "KEVIN CARLOS",
+    "squadra": "CA",
+    "valore": 12,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "MUTANDWA",
+    "squadra": "CA",
+    "valore": 6,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "MALDINI",
+    "squadra": "CA",
+    "valore": 5,
+    "ruoli": "T AS PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BORRELLI",
+    "squadra": "CA",
+    "valore": 4,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "MENDY P.",
+    "squadra": "CA",
+    "valore": 4,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "NZOLA",
+    "squadra": "CA",
+    "valore": 4,
+    "ruoli": "PC AD",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "TREPY",
+    "squadra": "CA",
+    "valore": 1,
+    "ruoli": "AD SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "KEAN",
+    "squadra": "CO",
+    "valore": 24,
+    "ruoli": "PC A",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "DOUVIKAS",
+    "squadra": "CO",
+    "valore": 22,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "DIAO",
+    "squadra": "CO",
+    "valore": 12,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BETO",
+    "squadra": "FI",
+    "valore": 14,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "PELLEGRINO M.",
+    "squadra": "FI",
+    "valore": 14,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "GNONTO",
+    "squadra": "FI",
+    "valore": 7,
+    "ruoli": "SP A",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BOBCEK",
+    "squadra": "FR",
+    "valore": 9,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "RAIMONDO",
+    "squadra": "FR",
+    "valore": 9,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "GHEDJEMIS",
+    "squadra": "FR",
+    "valore": 8,
+    "ruoli": "T AS AD",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "KVERNADZE",
+    "squadra": "FR",
+    "valore": 6,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BIRLIGEA",
+    "squadra": "FR",
+    "valore": 5,
+    "ruoli": "PC AS SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "COLOMBO",
+    "squadra": "GE",
+    "valore": 11,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "OSMAJIC",
+    "squadra": "GE",
+    "valore": 8,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "VITINHA O.",
+    "squadra": "GE",
+    "valore": 8,
+    "ruoli": "AS SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "HAVEL",
+    "squadra": "GE",
+    "valore": 4,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ROBINHO JUNIOR",
+    "squadra": "GE",
+    "valore": 1,
+    "ruoli": "A T",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "MARTINEZ L.",
+    "squadra": "IN",
+    "valore": 33,
+    "ruoli": "SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "THURAM",
+    "squadra": "IN",
+    "valore": 28,
+    "ruoli": "AS SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ESPOSITO F.P.",
+    "squadra": "IN",
+    "valore": 17,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BONNY",
+    "squadra": "IN",
+    "valore": 7,
+    "ruoli": "SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "KOLO MUANI",
+    "squadra": "JU",
+    "valore": 25,
+    "ruoli": "PC A",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "WOLTEMADE",
+    "squadra": "JU",
+    "valore": 23,
+    "ruoli": "PC T SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "YILDIZ",
+    "squadra": "JU",
+    "valore": 22,
+    "ruoli": "AS AD SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BOGA",
+    "squadra": "JU",
+    "valore": 7,
+    "ruoli": "T AS SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "MILIK",
+    "squadra": "JU",
+    "valore": 4,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "EKHATOR",
+    "squadra": "JU",
+    "valore": 3,
+    "ruoli": "AS SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "PINAMONTI",
+    "squadra": "LA",
+    "valore": 12,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "RATKOV",
+    "squadra": "LA",
+    "valore": 9,
+    "ruoli": "AS PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "NOSLIN",
+    "squadra": "LA",
+    "valore": 6,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "GEUBBELS",
+    "squadra": "LE",
+    "valore": 8,
+    "ruoli": "PC A",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "STULIC",
+    "squadra": "LE",
+    "valore": 6,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "FATAH",
+    "squadra": "LE",
+    "valore": 4,
+    "ruoli": "PC A",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "N'DRI",
+    "squadra": "LE",
+    "valore": 4,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "RAMOS G.",
+    "squadra": "MI",
+    "valore": 27,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "CAMARDA",
+    "squadra": "MI",
+    "valore": 4,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "CUTRONE",
+    "squadra": "MO",
+    "valore": 9,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "VARELA G.",
+    "squadra": "MO",
+    "valore": 7,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ZEBALLOS",
+    "squadra": "MO",
+    "valore": 6,
+    "ruoli": "A PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "NGONGE",
+    "squadra": "MO",
+    "valore": 5,
+    "ruoli": "PC SP AD",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "MOTA",
+    "squadra": "MO",
+    "valore": 4,
+    "ruoli": "AS SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ROBINSON J.",
+    "squadra": "MO",
+    "valore": 4,
+    "ruoli": "AS T",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "HOJLUND",
+    "squadra": "NA",
+    "valore": 28,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "SANTOS A.",
+    "squadra": "NA",
+    "valore": 14,
+    "ruoli": "T AS",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "NERES",
+    "squadra": "NA",
+    "valore": 6,
+    "ruoli": "T AS AD",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "GIOVANE",
+    "squadra": "NA",
+    "valore": 4,
+    "ruoli": "AD SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "LANG",
+    "squadra": "NA",
+    "valore": 4,
+    "ruoli": "AS AD SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "LUCCA",
+    "squadra": "NA",
+    "valore": 4,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ROMERO D.",
+    "squadra": "PA",
+    "valore": 10,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "TOURÈ E.",
+    "squadra": "PA",
+    "valore": 10,
+    "ruoli": "PC A",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "FRIGAN",
+    "squadra": "PA",
+    "valore": 4,
+    "ruoli": "AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ELPHEGE",
+    "squadra": "PA",
+    "valore": 3,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "LONTANI",
+    "squadra": "PA",
+    "valore": 3,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "DE MARTIS",
+    "squadra": "PA",
+    "valore": 1,
+    "ruoli": "PC AD CD",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "MALEN",
+    "squadra": "RO",
+    "valore": 38,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "DYBALA",
+    "squadra": "RO",
+    "valore": 16,
+    "ruoli": "AD SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "CASTRO S.",
+    "squadra": "RO",
+    "valore": 14,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "SOULÈ",
+    "squadra": "RO",
+    "valore": 13,
+    "ruoli": "T AD SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "VAZ",
+    "squadra": "RO",
+    "valore": 1,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BERARDI",
+    "squadra": "SA",
+    "valore": 19,
+    "ruoli": "AD SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "LAURIENTÈ",
+    "squadra": "SA",
+    "valore": 15,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ESPOSITO SE.",
+    "squadra": "SA",
+    "valore": 12,
+    "ruoli": "SP PC T",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BOWIE",
+    "squadra": "SA",
+    "valore": 9,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "SIMEONE",
+    "squadra": "TO",
+    "valore": 14,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ADAMS C.",
+    "squadra": "TO",
+    "valore": 10,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ZAPATA D.",
+    "squadra": "TO",
+    "valore": 6,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "KULENOVIC",
+    "squadra": "TO",
+    "valore": 4,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "DAVIS K.",
+    "squadra": "UD",
+    "valore": 19,
+    "ruoli": "SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "GUEYE",
+    "squadra": "UD",
+    "valore": 4,
+    "ruoli": "PC SP AD",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "BAYO V.",
+    "squadra": "UD",
+    "valore": 1,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ADAMS A.",
+    "squadra": "VE",
+    "valore": 11,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "YEBOAH J.",
+    "squadra": "VE",
+    "valore": 9,
+    "ruoli": "AS AD SP",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "RRAHMANI AL.",
+    "squadra": "VE",
+    "valore": 7,
+    "ruoli": "PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "ADORANTE",
+    "squadra": "VE",
+    "valore": 4,
+    "ruoli": "SP PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "LAUBERBACH",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "AS AD PC",
+    "macrofascia": "A"
+  },
+  {
+    "nome": "LISMAN",
+    "squadra": "VE",
+    "valore": 1,
+    "ruoli": "CD AS AD",
+    "macrofascia": "A"
+  }
+]
