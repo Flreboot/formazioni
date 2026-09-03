@@ -481,7 +481,7 @@
       },
       {
         "nome": "RRAHMANI",
-        "squadraSerieA": "",
+        "squadraSerieA": "NA",
         "valore": 30,
         "contratto": 3,
         "ruoli": "DC"
@@ -862,9 +862,9 @@
         "ruoli": "POR"
       },
       {
-        "nome": "DE GEA",
-        "squadraSerieA": "FI",
-        "valore": 11,
+        "nome": "SANCHEZ RO.",
+        "squadraSerieA": "CO",
+        "valore": 8,
         "contratto": 3,
         "ruoli": "POR"
       },
@@ -1009,11 +1009,11 @@
         "ruoli": "M CC T"
       },
       {
-        "nome": "FRENDRUP",
-        "squadraSerieA": "GE",
-        "valore": 7,
+        "nome": "VUOTO",
+        "squadraSerieA": "",
+        "valore": null,
         "contratto": 3,
-        "ruoli": "M CC"
+        "ruoli": ""
       },
       {
         "nome": "RAIMONDO",
@@ -1032,7 +1032,7 @@
       {
         "nome": "SIMEONE",
         "squadraSerieA": "TO",
-        "valore": "",
+        "valore": 14,
         "contratto": 3,
         "ruoli": "PC"
       },
@@ -1074,11 +1074,11 @@
         "ruoli": "POR"
       },
       {
-        "nome": "SANCHEZ RO.",
-        "squadraSerieA": "CO",
-        "valore": 8,
+        "nome": "VUOTO",
+        "squadraSerieA": "",
+        "valore": null,
         "contratto": 3,
-        "ruoli": "POR"
+        "ruoli": ""
       },
       {
         "nome": "PROVEDEL",
@@ -1193,11 +1193,11 @@
         "ruoli": "M CC T"
       },
       {
-        "nome": "VENTURINO",
+        "nome": "FRENDRUP",
         "squadraSerieA": "GE",
-        "valore": 2,
+        "valore": 7,
         "contratto": 3,
-        "ruoli": "CD AS AD"
+        "ruoli": "M CC"
       },
       {
         "nome": "RODRIGUEZ JE.",
