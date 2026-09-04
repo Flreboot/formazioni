@@ -4,7 +4,7 @@ const fs = require("fs");
 const XLSX = require("xlsx");
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = 3000;
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -274,87 +274,6 @@ app.post(
   }
 );
 
-
-/*
-  SCADENZA FORMAZIONI
-  La data viene salvata in data/deadline.json in formato ISO UTC.
-*/
-app.get("/api/deadline", (req, res) => {
-  try {
-    const deadlinePath = path.join(__dirname, "data", "deadline.json");
-
-    if (!fs.existsSync(deadlinePath)) {
-      return res.json({
-        ok: true,
-        deadline: null,
-        expired: false
-      });
-    }
-
-    const saved = JSON.parse(fs.readFileSync(deadlinePath, "utf8"));
-    const deadline = saved && saved.deadline ? String(saved.deadline) : null;
-    const deadlineMs = deadline ? Date.parse(deadline) : NaN;
-
-    if (!deadline || !Number.isFinite(deadlineMs)) {
-      return res.json({
-        ok: true,
-        deadline: null,
-        expired: false
-      });
-    }
-
-    return res.json({
-      ok: true,
-      deadline,
-      expired: Date.now() >= deadlineMs
-    });
-  } catch (error) {
-    console.error("Errore lettura scadenza:", error);
-    return res.status(500).json({
-      ok: false,
-      message: "Impossibile leggere la scadenza delle formazioni."
-    });
-  }
-});
-
-app.post("/api/admin/deadline", (req, res) => {
-  try {
-    const deadline = req.body && req.body.deadline ? String(req.body.deadline) : "";
-    const deadlineMs = Date.parse(deadline);
-
-    if (!deadline || !Number.isFinite(deadlineMs)) {
-      return res.status(400).json({
-        ok: false,
-        message: "Data o orario non validi."
-      });
-    }
-
-    const dataDir = path.join(__dirname, "data");
-    fs.mkdirSync(dataDir, { recursive: true });
-
-    const deadlinePath = path.join(dataDir, "deadline.json");
-    const tmpPath = path.join(dataDir, "deadline.tmp.json");
-
-    fs.writeFileSync(
-      tmpPath,
-      JSON.stringify({ deadline: new Date(deadlineMs).toISOString() }, null, 2),
-      "utf8"
-    );
-    fs.renameSync(tmpPath, deadlinePath);
-
-    return res.json({
-      ok: true,
-      deadline: new Date(deadlineMs).toISOString(),
-      expired: Date.now() >= deadlineMs
-    });
-  } catch (error) {
-    console.error("Errore salvataggio scadenza:", error);
-    return res.status(500).json({
-      ok: false,
-      message: "Impossibile salvare la scadenza delle formazioni."
-    });
-  }
-});
 
 app.listen(PORT, () => {
   console.log(`Server avviato su http://localhost:${PORT}`);
