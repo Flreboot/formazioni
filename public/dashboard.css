@@ -673,53 +673,11 @@ select {
   transform: none;
 }
 
-.deadline-controls {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 10px;
-  margin-top: 24px;
-  align-items: end;
-}
 
-.deadline-label {
-  grid-column: 1 / -1;
-  color: #dbe3ee;
-  font-size: 12px;
-  font-weight: 800;
-  letter-spacing: .4px;
-}
 
-.deadline-input {
-  width: 100%;
-  height: 52px;
-  padding: 0 13px;
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 13px;
-  outline: none;
-  background: #0d1829;
-  color: var(--text);
-  font: inherit;
-  font-size: 13px;
-  color-scheme: dark;
-}
 
-.deadline-input:focus {
-  border-color: rgba(215, 179, 90, 0.74);
-  box-shadow: 0 0 0 4px rgba(215, 179, 90, 0.08);
-}
 
-.deadline-button {
-  width: auto;
-  min-width: 170px;
-  margin-top: 0;
-}
 
-.deadline-status {
-  min-height: 20px;
-  margin-top: 13px !important;
-  color: var(--accent) !important;
-  font-weight: 700;
-}
 
 @media (max-width: 800px) {
   .dashboard-grid {
@@ -731,12 +689,3 @@ select {
   }
 }
 
-@media (max-width: 520px) {
-  .deadline-controls {
-    grid-template-columns: 1fr;
-  }
-
-  .deadline-button {
-    width: 100%;
-  }
-}

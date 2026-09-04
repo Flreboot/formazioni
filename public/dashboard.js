@@ -517,21 +517,6 @@ sendFormationButton.addEventListener("click", async () => {
   dashboardMessage.textContent = "";
 
   try {
-    const deadlineResponse = await fetch("/api/deadline", { cache: "no-store" });
-    const deadlineData = await deadlineResponse.json();
-
-    if (!deadlineResponse.ok || !deadlineData.ok) {
-      throw new Error(deadlineData.message || "Impossibile verificare il termine di invio.");
-    }
-
-    if (deadlineData.expired) {
-      const expiredMessage = "Caricamento non consentito, tempo scaduto!";
-      dashboardMessage.classList.remove("success-message");
-      dashboardMessage.textContent = expiredMessage;
-      alert(expiredMessage);
-      return;
-    }
-
     const formationText = buildFormationText();
     await copyTextToClipboard(formationText);
     dashboardMessage.textContent =
