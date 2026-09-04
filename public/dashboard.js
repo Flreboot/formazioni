@@ -182,7 +182,7 @@ function fillPlayerSelect(select, currentValue) {
 
     const option = document.createElement("option");
     option.value = player.nome;
-    option.textContent = `${player.nome} · ${player.squadraSerieA || "--"}`;
+    option.textContent = `${player.nome} · ${player.squadraSerieA || "--"} · ${player.ruoli || "-"}`;
     select.appendChild(option);
   }
 
