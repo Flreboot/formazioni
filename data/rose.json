@@ -571,11 +571,11 @@
         "ruoli": "M CC T"
       },
       {
-        "nome": "SAELEMAEKERS",
-        "squadraSerieA": "MI",
-        "valore": 11,
+        "nome": "ISAKSEN",
+        "squadraSerieA": "LA",
+        "valore": 9,
         "contratto": 3,
-        "ruoli": "CD AS AD"
+        "ruoli": "AS AD PC"
       },
       {
         "nome": "LIBERALI",
@@ -762,11 +762,11 @@
         "ruoli": "CC T SP"
       },
       {
-        "nome": "ISAKSEN",
-        "squadraSerieA": "LA",
-        "valore": 9,
+        "nome": "SAELEMAEKERS",
+        "squadraSerieA": "MI",
+        "valore": 11,
         "contratto": 3,
-        "ruoli": "AS AD PC"
+        "ruoli": "CD AS AD"
       },
       {
         "nome": "GONZALEZ N.",
