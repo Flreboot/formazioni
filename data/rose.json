@@ -21,7 +21,7 @@
         "ruoli": "POR"
       },
       {
-        "nome": "RUSSO A.",
+        "nome": "TURATI",
         "squadraSerieA": "SA",
         "valore": 1,
         "contratto": 3,
@@ -415,7 +415,7 @@
         "ruoli": "PC"
       },
       {
-        "nome": "OSMJIC",
+        "nome": "OSMAJIC",
         "squadraSerieA": "GE",
         "valore": 35,
         "contratto": 3,
@@ -925,11 +925,11 @@
         "ruoli": "DS CS"
       },
       {
-        "nome": "HAINAUT",
-        "squadraSerieA": "VE",
-        "valore": 8,
+        "nome": "BELGHALI",
+        "squadraSerieA": "TO",
+        "valore": 7,
         "contratto": 3,
-        "ruoli": "DC DD CC"
+        "ruoli": "DD CE"
       },
       {
         "nome": "CAMBIASO",
